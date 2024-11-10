@@ -1,0 +1,183 @@
+{
+    "cluster_0": {
+        "tamanho": 465,
+        "tema_predominante": "cultura",
+        "distribuicao": {
+            "cultura": 113,
+            "natureza": 82,
+            "arte": 63,
+            "ciencia": 59,
+            "educacao": 49,
+            "esporte": 41,
+            "saude": 36,
+            "tecnologia": 13,
+            "negocios": 9
+        },
+        "exemplos": [
+            "tática de atletismo",
+            "proteção de floresta",
+            "método de conhecimento",
+            "religião movimento",
+            "filosofia dimensão"
+        ]
+    },
+    "cluster_1": {
+        "tamanho": 240,
+        "tema_predominante": "tecnologia",
+        "distribuicao": {
+            "tecnologia": 189,
+            "negocios": 34,
+            "arte": 6,
+            "esporte": 5,
+            "natureza": 3,
+            "educacao": 3
+        },
+        "exemplos": [
+            "api aplicação",
+            "performance estratégia",
+            "servidor",
+            "cloud arquitetura",
+            "plataforma de database"
+        ]
+    },
+    "cluster_2": {
+        "tamanho": 258,
+        "tema_predominante": "arte",
+        "distribuicao": {
+            "arte": 174,
+            "cultura": 27,
+            "esporte": 21,
+            "natureza": 17,
+            "tecnologia": 12,
+            "ciencia": 6,
+            "educacao": 1
+        },
+        "exemplos": [
+            "arte e literatura",
+            "artista",
+            "cinema e escultura",
+            "arte forma",
+            "movimento de artista"
+        ]
+    },
+    "cluster_3": {
+        "tamanho": 302,
+        "tema_predominante": "saude",
+        "distribuicao": {
+            "saude": 66,
+            "educacao": 65,
+            "tecnologia": 48,
+            "ciencia": 46,
+            "esporte": 31,
+            "negocios": 30,
+            "arte": 16
+        },
+        "exemplos": [
+            "treinamento programa",
+            "prevenção programa",
+            "finanças implementação",
+            "processo de capacitação",
+            "marketing implementação"
+        ]
+    },
+    "cluster_4": {
+        "tamanho": 135,
+        "tema_predominante": "tecnologia",
+        "distribuicao": {
+            "tecnologia": 41,
+            "saude": 34,
+            "educacao": 30,
+            "esporte": 30
+        },
+        "exemplos": [
+            "learning sistema",
+            "sistema de treino",
+            "algoritmo sistema",
+            "sistema de medicina",
+            "sistema de campeonato"
+        ]
+    },
+    "cluster_5": {
+        "tamanho": 332,
+        "tema_predominante": "natureza",
+        "distribuicao": {
+            "natureza": 131,
+            "ciencia": 76,
+            "saude": 46,
+            "cultura": 22,
+            "esporte": 16,
+            "tecnologia": 14,
+            "arte": 10,
+            "negocios": 10,
+            "educacao": 7
+        },
+        "exemplos": [
+            "floresta preservação",
+            "análise de astronomia",
+            "terra preservação",
+            "floresta bioma",
+            "energia análise"
+        ]
+    },
+    "cluster_6": {
+        "tamanho": 487,
+        "tema_predominante": "ciencia",
+        "distribuicao": {
+            "ciencia": 128,
+            "esporte": 84,
+            "natureza": 81,
+            "educacao": 59,
+            "saude": 47,
+            "negocios": 35,
+            "arte": 23,
+            "tecnologia": 18,
+            "cultura": 12
+        },
+        "exemplos": [
+            "espécie de estrela",
+            "clima e animal",
+            "espécie de natureza",
+            "animal e vento",
+            "ecossistema e sol"
+        ]
+    },
+    "cluster_7": {
+        "tamanho": 129,
+        "tema_predominante": "esporte",
+        "distribuicao": {
+            "esporte": 52,
+            "arte": 39,
+            "saude": 33,
+            "ciencia": 5
+        },
+        "exemplos": [
+            "criatividade técnica",
+            "técnica de treino",
+            "música técnica",
+            "técnica de cura",
+            "técnica de exposição"
+        ]
+    },
+    "cluster_8": {
+        "tamanho": 523,
+        "tema_predominante": "negocios",
+        "distribuicao": {
+            "negocios": 167,
+            "cultura": 91,
+            "educacao": 71,
+            "tecnologia": 55,
+            "natureza": 40,
+            "saude": 39,
+            "ciencia": 35,
+            "arte": 20,
+            "esporte": 5
+        },
+        "exemplos": [
+            "ritual e identidade",
+            "desenvolvimento de desenvolvimento",
+            "tradição dimensão",
+            "sustentabilidade e terra",
+            "celebração dimensão"
+        ]
+    }
+}

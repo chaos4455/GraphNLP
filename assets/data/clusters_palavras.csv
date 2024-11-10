@@ -1,0 +1,2872 @@
+texto,categoria_original,cluster
+computador,tecnologia,1
+sistema de computador,tecnologia,4
+computador sistema,tecnologia,4
+plataforma de computador,tecnologia,3
+computador plataforma,tecnologia,3
+framework de computador,tecnologia,1
+computador framework,tecnologia,1
+aplicação de computador,tecnologia,3
+computador aplicação,tecnologia,3
+desenvolvimento de computador,tecnologia,3
+computador desenvolvimento,tecnologia,3
+arquitetura de computador,tecnologia,3
+computador arquitetura,tecnologia,3
+computador e python,tecnologia,1
+computador e inteligência,tecnologia,3
+computador e api,tecnologia,1
+computador e segurança,tecnologia,6
+software,tecnologia,1
+sistema de software,tecnologia,4
+software sistema,tecnologia,4
+plataforma de software,tecnologia,3
+software plataforma,tecnologia,1
+framework de software,tecnologia,1
+software framework,tecnologia,1
+aplicação de software,tecnologia,3
+software aplicação,tecnologia,3
+desenvolvimento de software,tecnologia,3
+software desenvolvimento,tecnologia,3
+arquitetura de software,tecnologia,1
+software arquitetura,tecnologia,1
+software e desenvolvimento,tecnologia,3
+software e devops,tecnologia,1
+software e rede,tecnologia,1
+software e segurança,tecnologia,3
+software e servidor,tecnologia,1
+internet,tecnologia,1
+sistema de internet,tecnologia,4
+internet sistema,tecnologia,4
+plataforma de internet,tecnologia,1
+internet plataforma,tecnologia,1
+framework de internet,tecnologia,1
+internet framework,tecnologia,1
+aplicação de internet,tecnologia,1
+internet aplicação,tecnologia,1
+desenvolvimento de internet,tecnologia,1
+internet desenvolvimento,tecnologia,1
+arquitetura de internet,tecnologia,1
+internet arquitetura,tecnologia,1
+internet e frontend,tecnologia,1
+internet e código,tecnologia,1
+internet e learning,tecnologia,1
+internet e api,tecnologia,1
+internet e database,tecnologia,1
+programação,tecnologia,3
+sistema de programação,tecnologia,3
+programação sistema,tecnologia,4
+plataforma de programação,tecnologia,3
+programação plataforma,tecnologia,3
+framework de programação,tecnologia,3
+programação framework,tecnologia,1
+aplicação de programação,tecnologia,3
+programação aplicação,tecnologia,3
+desenvolvimento de programação,tecnologia,3
+programação desenvolvimento,tecnologia,3
+arquitetura de programação,tecnologia,3
+programação arquitetura,tecnologia,3
+programação e python,tecnologia,3
+programação e learning,tecnologia,3
+programação e software,tecnologia,3
+programação e algoritmo,tecnologia,3
+programação e artificial,tecnologia,3
+dados,tecnologia,5
+sistema de dados,tecnologia,4
+dados sistema,tecnologia,4
+plataforma de dados,tecnologia,0
+dados plataforma,tecnologia,0
+framework de dados,tecnologia,1
+dados framework,tecnologia,1
+aplicação de dados,tecnologia,0
+dados aplicação,tecnologia,0
+desenvolvimento de dados,tecnologia,0
+dados desenvolvimento,tecnologia,0
+arquitetura de dados,tecnologia,0
+dados arquitetura,tecnologia,0
+dados e devops,tecnologia,1
+dados e learning,tecnologia,6
+dados e backend,tecnologia,1
+dados e cloud,tecnologia,1
+algoritmo,tecnologia,5
+sistema de algoritmo,tecnologia,4
+algoritmo sistema,tecnologia,4
+plataforma de algoritmo,tecnologia,0
+algoritmo plataforma,tecnologia,0
+framework de algoritmo,tecnologia,1
+algoritmo framework,tecnologia,1
+aplicação de algoritmo,tecnologia,8
+algoritmo aplicação,tecnologia,8
+desenvolvimento de algoritmo,tecnologia,8
+algoritmo desenvolvimento,tecnologia,8
+arquitetura de algoritmo,tecnologia,0
+algoritmo arquitetura,tecnologia,0
+algoritmo e python,tecnologia,1
+algoritmo e dados,tecnologia,0
+algoritmo e machine,tecnologia,1
+algoritmo e rede,tecnologia,6
+algoritmo e programação,tecnologia,3
+rede,tecnologia,1
+sistema de rede,tecnologia,4
+rede sistema,tecnologia,4
+plataforma de rede,tecnologia,6
+rede plataforma,tecnologia,5
+framework de rede,tecnologia,1
+rede framework,tecnologia,1
+aplicação de rede,tecnologia,6
+rede aplicação,tecnologia,6
+desenvolvimento de rede,tecnologia,6
+rede desenvolvimento,tecnologia,8
+arquitetura de rede,tecnologia,6
+rede arquitetura,tecnologia,2
+rede e machine,tecnologia,1
+rede e código,tecnologia,6
+rede e api,tecnologia,1
+rede e segurança,tecnologia,6
+rede e desenvolvimento,tecnologia,6
+inteligência,tecnologia,8
+sistema de inteligência,tecnologia,4
+inteligência sistema,tecnologia,4
+plataforma de inteligência,tecnologia,8
+inteligência plataforma,tecnologia,8
+framework de inteligência,tecnologia,1
+inteligência framework,tecnologia,1
+aplicação de inteligência,tecnologia,8
+inteligência aplicação,tecnologia,8
+desenvolvimento de inteligência,tecnologia,8
+inteligência desenvolvimento,tecnologia,8
+arquitetura de inteligência,tecnologia,8
+inteligência arquitetura,tecnologia,8
+inteligência e learning,tecnologia,8
+inteligência e dados,tecnologia,6
+inteligência e frontend,tecnologia,1
+inteligência e computador,tecnologia,3
+inteligência e internet,tecnologia,1
+artificial,tecnologia,5
+sistema de artificial,tecnologia,4
+artificial sistema,tecnologia,4
+plataforma de artificial,tecnologia,3
+artificial plataforma,tecnologia,5
+framework de artificial,tecnologia,1
+artificial framework,tecnologia,1
+aplicação de artificial,tecnologia,3
+artificial aplicação,tecnologia,5
+desenvolvimento de artificial,tecnologia,3
+artificial desenvolvimento,tecnologia,3
+arquitetura de artificial,tecnologia,3
+artificial arquitetura,tecnologia,5
+artificial e servidor,tecnologia,1
+artificial e inteligência,tecnologia,8
+artificial e python,tecnologia,1
+artificial e database,tecnologia,1
+artificial e devops,tecnologia,1
+machine,tecnologia,1
+sistema de machine,tecnologia,4
+machine sistema,tecnologia,4
+plataforma de machine,tecnologia,1
+machine plataforma,tecnologia,1
+framework de machine,tecnologia,1
+machine framework,tecnologia,1
+aplicação de machine,tecnologia,3
+machine aplicação,tecnologia,3
+desenvolvimento de machine,tecnologia,3
+machine desenvolvimento,tecnologia,3
+arquitetura de machine,tecnologia,1
+machine arquitetura,tecnologia,1
+machine e artificial,tecnologia,1
+machine e cloud,tecnologia,1
+machine e programação,tecnologia,3
+machine e inteligência,tecnologia,1
+learning,tecnologia,1
+sistema de learning,tecnologia,4
+learning sistema,tecnologia,4
+plataforma de learning,tecnologia,3
+learning plataforma,tecnologia,1
+framework de learning,tecnologia,1
+learning framework,tecnologia,1
+aplicação de learning,tecnologia,8
+learning aplicação,tecnologia,8
+desenvolvimento de learning,tecnologia,8
+learning desenvolvimento,tecnologia,8
+arquitetura de learning,tecnologia,2
+learning arquitetura,tecnologia,1
+learning e computador,tecnologia,1
+learning e machine,tecnologia,1
+learning e desenvolvimento,tecnologia,8
+learning e backend,tecnologia,1
+python,tecnologia,1
+sistema de python,tecnologia,4
+python sistema,tecnologia,4
+plataforma de python,tecnologia,1
+python plataforma,tecnologia,1
+framework de python,tecnologia,1
+python framework,tecnologia,1
+aplicação de python,tecnologia,1
+python aplicação,tecnologia,5
+desenvolvimento de python,tecnologia,1
+python desenvolvimento,tecnologia,3
+arquitetura de python,tecnologia,1
+python arquitetura,tecnologia,1
+python e servidor,tecnologia,1
+python e devops,tecnologia,1
+python e frontend,tecnologia,1
+python e cloud,tecnologia,1
+python e learning,tecnologia,1
+código,tecnologia,5
+sistema de código,tecnologia,4
+código sistema,tecnologia,4
+plataforma de código,tecnologia,2
+código plataforma,tecnologia,5
+framework de código,tecnologia,1
+código framework,tecnologia,1
+aplicação de código,tecnologia,5
+código aplicação,tecnologia,5
+desenvolvimento de código,tecnologia,8
+código desenvolvimento,tecnologia,8
+arquitetura de código,tecnologia,2
+código arquitetura,tecnologia,5
+código e devops,tecnologia,1
+código e desenvolvimento,tecnologia,8
+código e servidor,tecnologia,1
+código e api,tecnologia,1
+código e frontend,tecnologia,1
+desenvolvimento,tecnologia,8
+sistema de desenvolvimento,tecnologia,8
+desenvolvimento sistema,tecnologia,4
+plataforma de desenvolvimento,tecnologia,8
+desenvolvimento plataforma,tecnologia,8
+framework de desenvolvimento,tecnologia,8
+desenvolvimento framework,tecnologia,8
+aplicação de desenvolvimento,tecnologia,8
+desenvolvimento aplicação,tecnologia,8
+desenvolvimento de desenvolvimento,tecnologia,8
+desenvolvimento desenvolvimento,tecnologia,8
+arquitetura de desenvolvimento,tecnologia,8
+desenvolvimento arquitetura,tecnologia,8
+desenvolvimento e software,tecnologia,3
+desenvolvimento e frontend,tecnologia,8
+desenvolvimento e database,tecnologia,8
+desenvolvimento e python,tecnologia,3
+desenvolvimento e artificial,tecnologia,8
+cloud,tecnologia,1
+sistema de cloud,tecnologia,4
+cloud sistema,tecnologia,4
+plataforma de cloud,tecnologia,1
+cloud plataforma,tecnologia,1
+framework de cloud,tecnologia,1
+cloud framework,tecnologia,1
+aplicação de cloud,tecnologia,1
+cloud aplicação,tecnologia,1
+desenvolvimento de cloud,tecnologia,1
+cloud desenvolvimento,tecnologia,1
+arquitetura de cloud,tecnologia,1
+cloud arquitetura,tecnologia,1
+cloud e dados,tecnologia,1
+cloud e desenvolvimento,tecnologia,8
+cloud e rede,tecnologia,1
+cloud e algoritmo,tecnologia,1
+servidor,tecnologia,1
+sistema de servidor,tecnologia,4
+servidor sistema,tecnologia,4
+plataforma de servidor,tecnologia,6
+servidor plataforma,tecnologia,5
+framework de servidor,tecnologia,1
+servidor framework,tecnologia,1
+aplicação de servidor,tecnologia,8
+servidor aplicação,tecnologia,8
+desenvolvimento de servidor,tecnologia,8
+servidor desenvolvimento,tecnologia,8
+arquitetura de servidor,tecnologia,2
+servidor arquitetura,tecnologia,2
+servidor e dados,tecnologia,6
+servidor e inteligência,tecnologia,8
+servidor e python,tecnologia,1
+servidor e artificial,tecnologia,1
+servidor e devops,tecnologia,1
+database,tecnologia,1
+sistema de database,tecnologia,4
+database sistema,tecnologia,4
+plataforma de database,tecnologia,1
+database plataforma,tecnologia,1
+framework de database,tecnologia,1
+database framework,tecnologia,1
+aplicação de database,tecnologia,1
+database aplicação,tecnologia,1
+desenvolvimento de database,tecnologia,8
+database desenvolvimento,tecnologia,8
+arquitetura de database,tecnologia,1
+database arquitetura,tecnologia,1
+database e python,tecnologia,1
+database e computador,tecnologia,1
+database e rede,tecnologia,1
+database e software,tecnologia,1
+database e algoritmo,tecnologia,1
+api,tecnologia,1
+sistema de api,tecnologia,4
+api sistema,tecnologia,4
+plataforma de api,tecnologia,1
+api plataforma,tecnologia,1
+framework de api,tecnologia,1
+api framework,tecnologia,1
+aplicação de api,tecnologia,1
+api aplicação,tecnologia,1
+desenvolvimento de api,tecnologia,1
+api desenvolvimento,tecnologia,1
+arquitetura de api,tecnologia,1
+api arquitetura,tecnologia,1
+api e algoritmo,tecnologia,1
+api e python,tecnologia,1
+api e inteligência,tecnologia,1
+api e programação,tecnologia,1
+frontend,tecnologia,1
+sistema de frontend,tecnologia,4
+frontend sistema,tecnologia,4
+plataforma de frontend,tecnologia,1
+frontend plataforma,tecnologia,1
+framework de frontend,tecnologia,1
+frontend framework,tecnologia,1
+aplicação de frontend,tecnologia,1
+frontend aplicação,tecnologia,1
+desenvolvimento de frontend,tecnologia,1
+frontend desenvolvimento,tecnologia,8
+arquitetura de frontend,tecnologia,1
+frontend arquitetura,tecnologia,1
+frontend e rede,tecnologia,1
+frontend e segurança,tecnologia,1
+frontend e computador,tecnologia,1
+frontend e inteligência,tecnologia,1
+frontend e machine,tecnologia,1
+backend,tecnologia,1
+sistema de backend,tecnologia,4
+backend sistema,tecnologia,4
+plataforma de backend,tecnologia,1
+backend plataforma,tecnologia,1
+framework de backend,tecnologia,1
+backend framework,tecnologia,1
+aplicação de backend,tecnologia,1
+backend aplicação,tecnologia,8
+desenvolvimento de backend,tecnologia,1
+backend desenvolvimento,tecnologia,8
+arquitetura de backend,tecnologia,1
+backend arquitetura,tecnologia,1
+backend e computador,tecnologia,1
+backend e segurança,tecnologia,6
+backend e código,tecnologia,1
+backend e rede,tecnologia,1
+backend e machine,tecnologia,1
+devops,tecnologia,1
+sistema de devops,tecnologia,4
+devops sistema,tecnologia,1
+plataforma de devops,tecnologia,1
+devops plataforma,tecnologia,1
+framework de devops,tecnologia,1
+devops framework,tecnologia,1
+aplicação de devops,tecnologia,1
+devops aplicação,tecnologia,1
+desenvolvimento de devops,tecnologia,1
+devops desenvolvimento,tecnologia,1
+arquitetura de devops,tecnologia,1
+devops arquitetura,tecnologia,1
+devops e computador,tecnologia,1
+devops e rede,tecnologia,1
+devops e learning,tecnologia,1
+devops e software,tecnologia,1
+devops e inteligência,tecnologia,1
+segurança,tecnologia,2
+sistema de segurança,tecnologia,4
+segurança sistema,tecnologia,4
+plataforma de segurança,tecnologia,2
+segurança plataforma,tecnologia,2
+framework de segurança,tecnologia,1
+segurança framework,tecnologia,1
+aplicação de segurança,tecnologia,8
+segurança aplicação,tecnologia,8
+desenvolvimento de segurança,tecnologia,8
+segurança desenvolvimento,tecnologia,8
+arquitetura de segurança,tecnologia,2
+segurança arquitetura,tecnologia,2
+segurança e algoritmo,tecnologia,6
+segurança e cloud,tecnologia,2
+segurança e desenvolvimento,tecnologia,8
+segurança e internet,tecnologia,6
+segurança e servidor,tecnologia,6
+física,ciencia,5
+estudo de física,ciencia,6
+física estudo,ciencia,6
+análise de física,ciencia,6
+física análise,ciencia,5
+investigação de física,ciencia,8
+física investigação,ciencia,8
+descoberta de física,ciencia,0
+física descoberta,ciencia,0
+método de física,ciencia,0
+física método,ciencia,0
+processo de física,ciencia,3
+física processo,ciencia,3
+física e evolução,ciencia,6
+física e energia,ciencia,6
+física e laboratório,ciencia,6
+física e hipótese,ciencia,6
+química,ciencia,5
+estudo de química,ciencia,6
+química estudo,ciencia,6
+análise de química,ciencia,5
+química análise,ciencia,5
+investigação de química,ciencia,8
+química investigação,ciencia,8
+descoberta de química,ciencia,0
+química descoberta,ciencia,0
+método de química,ciencia,0
+química método,ciencia,0
+processo de química,ciencia,3
+química processo,ciencia,3
+química e evolução,ciencia,6
+química e laboratório,ciencia,6
+química e matemática,ciencia,6
+química e molécula,ciencia,6
+química e física,ciencia,6
+biologia,ciencia,5
+estudo de biologia,ciencia,5
+biologia estudo,ciencia,5
+análise de biologia,ciencia,5
+biologia análise,ciencia,5
+investigação de biologia,ciencia,5
+biologia investigação,ciencia,5
+descoberta de biologia,ciencia,5
+biologia descoberta,ciencia,5
+método de biologia,ciencia,5
+biologia método,ciencia,5
+processo de biologia,ciencia,3
+biologia processo,ciencia,3
+biologia e aceleração,ciencia,5
+biologia e genética,ciencia,5
+biologia e molécula,ciencia,5
+biologia e pesquisa,ciencia,5
+biologia e hipótese,ciencia,5
+matemática,ciencia,5
+estudo de matemática,ciencia,6
+matemática estudo,ciencia,6
+análise de matemática,ciencia,5
+matemática análise,ciencia,5
+investigação de matemática,ciencia,8
+matemática investigação,ciencia,8
+descoberta de matemática,ciencia,0
+matemática descoberta,ciencia,5
+método de matemática,ciencia,0
+matemática método,ciencia,0
+processo de matemática,ciencia,3
+matemática processo,ciencia,3
+matemática e física,ciencia,6
+matemática e aceleração,ciencia,6
+matemática e experimento,ciencia,6
+matemática e laboratório,ciencia,6
+matemática e massa,ciencia,6
+astronomia,ciencia,5
+estudo de astronomia,ciencia,6
+astronomia estudo,ciencia,5
+análise de astronomia,ciencia,5
+astronomia análise,ciencia,5
+investigação de astronomia,ciencia,5
+astronomia investigação,ciencia,5
+descoberta de astronomia,ciencia,5
+astronomia descoberta,ciencia,5
+método de astronomia,ciencia,0
+astronomia método,ciencia,5
+processo de astronomia,ciencia,3
+astronomia processo,ciencia,3
+astronomia e química,ciencia,5
+astronomia e aceleração,ciencia,6
+astronomia e laboratório,ciencia,6
+astronomia e energia,ciencia,6
+astronomia e pesquisa,ciencia,6
+genética,ciencia,5
+estudo de genética,ciencia,6
+genética estudo,ciencia,6
+análise de genética,ciencia,5
+genética análise,ciencia,5
+investigação de genética,ciencia,5
+genética investigação,ciencia,5
+descoberta de genética,ciencia,5
+genética descoberta,ciencia,5
+método de genética,ciencia,0
+genética método,ciencia,5
+processo de genética,ciencia,3
+genética processo,ciencia,3
+genética e astronomia,ciencia,5
+genética e molécula,ciencia,5
+genética e teoria,ciencia,6
+genética e pesquisa,ciencia,6
+genética e velocidade,ciencia,6
+evolução,ciencia,6
+estudo de evolução,ciencia,6
+evolução estudo,ciencia,6
+análise de evolução,ciencia,6
+evolução análise,ciencia,6
+investigação de evolução,ciencia,8
+evolução investigação,ciencia,8
+descoberta de evolução,ciencia,6
+evolução descoberta,ciencia,6
+método de evolução,ciencia,0
+evolução método,ciencia,0
+processo de evolução,ciencia,3
+evolução processo,ciencia,3
+evolução e pesquisa,ciencia,6
+evolução e teoria,ciencia,6
+evolução e experimento,ciencia,6
+evolução e força,ciencia,6
+evolução e massa,ciencia,6
+átomo,ciencia,5
+estudo de átomo,ciencia,6
+átomo estudo,ciencia,6
+análise de átomo,ciencia,6
+átomo análise,ciencia,3
+investigação de átomo,ciencia,8
+átomo investigação,ciencia,8
+descoberta de átomo,ciencia,0
+átomo descoberta,ciencia,0
+método de átomo,ciencia,0
+átomo método,ciencia,0
+processo de átomo,ciencia,3
+átomo processo,ciencia,3
+átomo e energia,ciencia,6
+átomo e experimento,ciencia,6
+átomo e biologia,ciencia,5
+átomo e laboratório,ciencia,6
+átomo e física,ciencia,6
+molécula,ciencia,5
+estudo de molécula,ciencia,6
+molécula estudo,ciencia,6
+análise de molécula,ciencia,5
+molécula análise,ciencia,5
+investigação de molécula,ciencia,8
+molécula investigação,ciencia,8
+descoberta de molécula,ciencia,0
+molécula descoberta,ciencia,5
+método de molécula,ciencia,0
+molécula método,ciencia,0
+processo de molécula,ciencia,3
+molécula processo,ciencia,3
+molécula e experimento,ciencia,6
+molécula e genética,ciencia,5
+molécula e teoria,ciencia,6
+molécula e massa,ciencia,6
+molécula e força,ciencia,5
+célula,ciencia,2
+estudo de célula,ciencia,6
+célula estudo,ciencia,6
+análise de célula,ciencia,2
+célula análise,ciencia,5
+investigação de célula,ciencia,8
+célula investigação,ciencia,8
+descoberta de célula,ciencia,2
+célula descoberta,ciencia,2
+método de célula,ciencia,0
+célula método,ciencia,0
+processo de célula,ciencia,3
+célula processo,ciencia,3
+célula e experimento,ciencia,6
+célula e evolução,ciencia,6
+célula e massa,ciencia,6
+célula e matemática,ciencia,6
+energia,ciencia,5
+estudo de energia,ciencia,6
+energia estudo,ciencia,6
+análise de energia,ciencia,8
+energia análise,ciencia,5
+investigação de energia,ciencia,8
+energia investigação,ciencia,8
+descoberta de energia,ciencia,6
+energia descoberta,ciencia,6
+método de energia,ciencia,0
+energia método,ciencia,0
+processo de energia,ciencia,3
+energia processo,ciencia,3
+energia e física,ciencia,6
+energia e biologia,ciencia,5
+energia e molécula,ciencia,6
+energia e célula,ciencia,6
+energia e matemática,ciencia,6
+força,ciencia,5
+estudo de força,ciencia,6
+força estudo,ciencia,6
+análise de força,ciencia,5
+força análise,ciencia,5
+investigação de força,ciencia,8
+força investigação,ciencia,8
+descoberta de força,ciencia,0
+força descoberta,ciencia,0
+método de força,ciencia,0
+força método,ciencia,0
+processo de força,ciencia,3
+força processo,ciencia,3
+força e experimento,ciencia,6
+força e energia,ciencia,6
+força e astronomia,ciencia,5
+força e célula,ciencia,6
+massa,ciencia,5
+estudo de massa,ciencia,6
+massa estudo,ciencia,6
+análise de massa,ciencia,6
+massa análise,ciencia,5
+investigação de massa,ciencia,8
+massa investigação,ciencia,8
+descoberta de massa,ciencia,0
+massa descoberta,ciencia,0
+método de massa,ciencia,0
+massa método,ciencia,0
+processo de massa,ciencia,3
+massa processo,ciencia,3
+massa e experimento,ciencia,6
+massa e evolução,ciencia,6
+massa e biologia,ciencia,5
+massa e molécula,ciencia,6
+massa e aceleração,ciencia,6
+velocidade,ciencia,6
+estudo de velocidade,ciencia,6
+velocidade estudo,ciencia,6
+análise de velocidade,ciencia,8
+velocidade análise,ciencia,8
+investigação de velocidade,ciencia,8
+velocidade investigação,ciencia,8
+descoberta de velocidade,ciencia,0
+velocidade descoberta,ciencia,0
+método de velocidade,ciencia,0
+velocidade método,ciencia,0
+processo de velocidade,ciencia,3
+velocidade processo,ciencia,3
+velocidade e célula,ciencia,6
+velocidade e química,ciencia,6
+velocidade e laboratório,ciencia,6
+velocidade e energia,ciencia,6
+velocidade e hipótese,ciencia,6
+aceleração,ciencia,0
+estudo de aceleração,ciencia,6
+aceleração estudo,ciencia,6
+análise de aceleração,ciencia,6
+aceleração análise,ciencia,3
+investigação de aceleração,ciencia,8
+aceleração investigação,ciencia,8
+descoberta de aceleração,ciencia,0
+aceleração descoberta,ciencia,0
+método de aceleração,ciencia,0
+aceleração método,ciencia,0
+processo de aceleração,ciencia,3
+aceleração processo,ciencia,3
+aceleração e pesquisa,ciencia,6
+aceleração e matemática,ciencia,6
+aceleração e biologia,ciencia,5
+aceleração e teoria,ciencia,6
+aceleração e energia,ciencia,6
+teoria,ciencia,7
+estudo de teoria,ciencia,6
+teoria estudo,ciencia,6
+análise de teoria,ciencia,7
+teoria análise,ciencia,7
+investigação de teoria,ciencia,8
+teoria investigação,ciencia,8
+descoberta de teoria,ciencia,7
+teoria descoberta,ciencia,7
+método de teoria,ciencia,0
+teoria método,ciencia,0
+processo de teoria,ciencia,3
+teoria processo,ciencia,3
+teoria e evolução,ciencia,6
+teoria e laboratório,ciencia,6
+teoria e célula,ciencia,6
+teoria e física,ciencia,6
+teoria e matemática,ciencia,6
+hipótese,ciencia,5
+estudo de hipótese,ciencia,6
+hipótese estudo,ciencia,6
+análise de hipótese,ciencia,5
+hipótese análise,ciencia,5
+investigação de hipótese,ciencia,5
+hipótese investigação,ciencia,5
+descoberta de hipótese,ciencia,2
+hipótese descoberta,ciencia,5
+método de hipótese,ciencia,0
+hipótese método,ciencia,5
+processo de hipótese,ciencia,3
+hipótese processo,ciencia,3
+hipótese e evolução,ciencia,6
+hipótese e biologia,ciencia,5
+hipótese e célula,ciencia,6
+hipótese e astronomia,ciencia,5
+experimento,ciencia,0
+estudo de experimento,ciencia,6
+experimento estudo,ciencia,6
+análise de experimento,ciencia,3
+experimento análise,ciencia,3
+investigação de experimento,ciencia,8
+experimento investigação,ciencia,8
+descoberta de experimento,ciencia,6
+experimento descoberta,ciencia,0
+método de experimento,ciencia,0
+experimento método,ciencia,0
+processo de experimento,ciencia,3
+experimento processo,ciencia,3
+experimento e pesquisa,ciencia,6
+experimento e genética,ciencia,6
+experimento e física,ciencia,6
+experimento e teoria,ciencia,6
+experimento e laboratório,ciencia,6
+laboratório,ciencia,0
+estudo de laboratório,ciencia,6
+laboratório estudo,ciencia,6
+análise de laboratório,ciencia,3
+laboratório análise,ciencia,3
+investigação de laboratório,ciencia,8
+laboratório investigação,ciencia,8
+descoberta de laboratório,ciencia,0
+laboratório descoberta,ciencia,0
+método de laboratório,ciencia,0
+laboratório método,ciencia,0
+processo de laboratório,ciencia,3
+laboratório processo,ciencia,3
+laboratório e biologia,ciencia,5
+laboratório e experimento,ciencia,6
+laboratório e pesquisa,ciencia,6
+laboratório e velocidade,ciencia,6
+laboratório e energia,ciencia,6
+pesquisa,ciencia,2
+estudo de pesquisa,ciencia,6
+pesquisa estudo,ciencia,6
+análise de pesquisa,ciencia,6
+pesquisa análise,ciencia,5
+investigação de pesquisa,ciencia,8
+pesquisa investigação,ciencia,8
+descoberta de pesquisa,ciencia,0
+pesquisa descoberta,ciencia,0
+método de pesquisa,ciencia,0
+pesquisa método,ciencia,0
+processo de pesquisa,ciencia,3
+pesquisa processo,ciencia,3
+pesquisa e experimento,ciencia,6
+pesquisa e átomo,ciencia,6
+pesquisa e força,ciencia,6
+pesquisa e energia,ciencia,6
+pintura,arte,5
+movimento de pintura,arte,0
+pintura movimento,arte,0
+estilo de pintura,arte,2
+pintura estilo,arte,2
+técnica de pintura,arte,7
+pintura técnica,arte,7
+composição de pintura,arte,0
+pintura composição,arte,0
+forma de pintura,arte,2
+pintura forma,arte,2
+cor de pintura,arte,2
+pintura cor,arte,2
+pintura e teatro,arte,2
+pintura e poesia,arte,2
+pintura e cinema,arte,2
+pintura e artista,arte,2
+música,arte,2
+movimento de música,arte,2
+música movimento,arte,2
+estilo de música,arte,2
+música estilo,arte,2
+técnica de música,arte,7
+música técnica,arte,7
+composição de música,arte,0
+música composição,arte,0
+forma de música,arte,2
+música forma,arte,2
+cor de música,arte,2
+música cor,arte,2
+música e exposição,arte,2
+música e arte,arte,2
+música e fotografia,arte,2
+música e performance,arte,2
+música e galeria,arte,2
+dança,arte,2
+movimento de dança,arte,0
+dança movimento,arte,0
+estilo de dança,arte,2
+dança estilo,arte,2
+técnica de dança,arte,7
+dança técnica,arte,7
+composição de dança,arte,0
+dança composição,arte,0
+forma de dança,arte,2
+dança forma,arte,2
+cor de dança,arte,2
+dança cor,arte,2
+dança e literatura,arte,2
+dança e cinema,arte,2
+dança e galeria,arte,6
+dança e exposição,arte,6
+dança e escultura,arte,6
+teatro,arte,2
+movimento de teatro,arte,2
+teatro movimento,arte,2
+estilo de teatro,arte,2
+teatro estilo,arte,2
+técnica de teatro,arte,7
+teatro técnica,arte,7
+composição de teatro,arte,2
+teatro composição,arte,2
+forma de teatro,arte,2
+teatro forma,arte,2
+cor de teatro,arte,2
+teatro cor,arte,2
+teatro e pintura,arte,2
+teatro e arte,arte,2
+teatro e performance,arte,2
+teatro e galeria,arte,2
+teatro e museu,arte,2
+cinema,arte,2
+movimento de cinema,arte,2
+cinema movimento,arte,2
+estilo de cinema,arte,2
+cinema estilo,arte,2
+técnica de cinema,arte,7
+cinema técnica,arte,7
+composição de cinema,arte,0
+cinema composição,arte,0
+forma de cinema,arte,2
+cinema forma,arte,2
+cor de cinema,arte,2
+cinema cor,arte,2
+cinema e museu,arte,2
+cinema e poesia,arte,2
+cinema e escultura,arte,2
+cinema e artista,arte,2
+literatura,arte,2
+movimento de literatura,arte,2
+literatura movimento,arte,0
+estilo de literatura,arte,2
+literatura estilo,arte,2
+técnica de literatura,arte,7
+literatura técnica,arte,7
+composição de literatura,arte,8
+literatura composição,arte,0
+forma de literatura,arte,2
+literatura forma,arte,2
+cor de literatura,arte,2
+literatura cor,arte,2
+literatura e obra,arte,2
+literatura e instalação,arte,3
+literatura e poesia,arte,2
+literatura e cultura,arte,2
+literatura e arte,arte,2
+poesia,arte,2
+movimento de poesia,arte,0
+poesia movimento,arte,0
+estilo de poesia,arte,2
+poesia estilo,arte,2
+técnica de poesia,arte,7
+poesia técnica,arte,7
+composição de poesia,arte,0
+poesia composição,arte,0
+forma de poesia,arte,2
+poesia forma,arte,2
+cor de poesia,arte,2
+poesia cor,arte,2
+poesia e artista,arte,2
+poesia e escultura,arte,2
+poesia e teatro,arte,2
+poesia e performance,arte,2
+poesia e cinema,arte,2
+escultura,arte,2
+movimento de escultura,arte,6
+escultura movimento,arte,0
+estilo de escultura,arte,2
+escultura estilo,arte,2
+técnica de escultura,arte,7
+escultura técnica,arte,7
+composição de escultura,arte,6
+escultura composição,arte,6
+forma de escultura,arte,2
+escultura forma,arte,2
+cor de escultura,arte,2
+escultura cor,arte,2
+escultura e pintura,arte,6
+escultura e criatividade,arte,8
+escultura e cinema,arte,2
+escultura e obra,arte,6
+escultura e galeria,arte,6
+fotografia,arte,2
+movimento de fotografia,arte,2
+fotografia movimento,arte,2
+estilo de fotografia,arte,2
+fotografia estilo,arte,2
+técnica de fotografia,arte,7
+fotografia técnica,arte,7
+composição de fotografia,arte,2
+fotografia composição,arte,2
+forma de fotografia,arte,2
+fotografia forma,arte,2
+cor de fotografia,arte,2
+fotografia cor,arte,2
+fotografia e pintura,arte,2
+fotografia e dança,arte,2
+fotografia e literatura,arte,2
+fotografia e exposição,arte,2
+fotografia e expressão,arte,2
+arte,arte,2
+movimento de arte,arte,2
+arte movimento,arte,2
+estilo de arte,arte,2
+arte estilo,arte,2
+técnica de arte,arte,7
+arte técnica,arte,7
+composição de arte,arte,0
+arte composição,arte,0
+forma de arte,arte,2
+arte forma,arte,2
+cor de arte,arte,2
+arte cor,arte,2
+arte e fotografia,arte,2
+arte e teatro,arte,2
+arte e literatura,arte,2
+arte e performance,arte,2
+cultura,arte,5
+movimento de cultura,arte,0
+cultura movimento,arte,0
+estilo de cultura,arte,2
+cultura estilo,arte,2
+técnica de cultura,arte,7
+cultura técnica,arte,7
+composição de cultura,arte,0
+cultura composição,arte,0
+forma de cultura,arte,2
+cultura forma,arte,5
+cor de cultura,arte,2
+cultura cor,arte,5
+cultura e exposição,arte,6
+cultura e instalação,arte,6
+cultura e dança,arte,2
+cultura e teatro,arte,2
+criatividade,arte,8
+movimento de criatividade,arte,8
+criatividade movimento,arte,8
+estilo de criatividade,arte,8
+criatividade estilo,arte,8
+técnica de criatividade,arte,8
+criatividade técnica,arte,7
+composição de criatividade,arte,8
+criatividade composição,arte,8
+forma de criatividade,arte,8
+criatividade forma,arte,8
+cor de criatividade,arte,8
+criatividade cor,arte,8
+criatividade e performance,arte,8
+criatividade e cinema,arte,2
+criatividade e teatro,arte,2
+criatividade e exposição,arte,8
+expressão,arte,0
+movimento de expressão,arte,0
+expressão movimento,arte,0
+estilo de expressão,arte,0
+expressão estilo,arte,0
+técnica de expressão,arte,7
+expressão técnica,arte,7
+composição de expressão,arte,0
+expressão composição,arte,0
+forma de expressão,arte,0
+expressão forma,arte,0
+cor de expressão,arte,0
+expressão cor,arte,0
+expressão e arte,arte,2
+expressão e pintura,arte,0
+expressão e obra,arte,6
+expressão e literatura,arte,6
+expressão e fotografia,arte,2
+artista,arte,2
+movimento de artista,arte,2
+artista movimento,arte,2
+estilo de artista,arte,2
+artista estilo,arte,2
+técnica de artista,arte,7
+artista técnica,arte,7
+composição de artista,arte,0
+artista composição,arte,0
+forma de artista,arte,2
+artista forma,arte,2
+cor de artista,arte,2
+artista cor,arte,2
+artista e expressão,arte,2
+artista e cinema,arte,2
+artista e teatro,arte,2
+artista e literatura,arte,2
+obra,arte,5
+movimento de obra,arte,0
+obra movimento,arte,0
+estilo de obra,arte,6
+obra estilo,arte,2
+técnica de obra,arte,7
+obra técnica,arte,7
+composição de obra,arte,0
+obra composição,arte,0
+forma de obra,arte,2
+obra forma,arte,5
+cor de obra,arte,2
+obra cor,arte,5
+obra e poesia,arte,6
+obra e cinema,arte,2
+obra e literatura,arte,2
+obra e instalação,arte,3
+performance,arte,1
+movimento de performance,arte,8
+performance movimento,arte,0
+estilo de performance,arte,2
+performance estilo,arte,1
+técnica de performance,arte,7
+performance técnica,arte,7
+composição de performance,arte,3
+performance composição,arte,3
+forma de performance,arte,1
+performance forma,arte,1
+cor de performance,arte,1
+performance cor,arte,1
+performance e obra,arte,2
+performance e dança,arte,2
+performance e teatro,arte,2
+performance e artista,arte,2
+performance e criatividade,arte,8
+instalação,arte,3
+movimento de instalação,arte,3
+instalação movimento,arte,3
+estilo de instalação,arte,3
+instalação estilo,arte,3
+técnica de instalação,arte,7
+instalação técnica,arte,7
+composição de instalação,arte,3
+instalação composição,arte,3
+forma de instalação,arte,3
+instalação forma,arte,3
+cor de instalação,arte,3
+instalação cor,arte,3
+instalação e escultura,arte,6
+instalação e artista,arte,6
+instalação e expressão,arte,3
+instalação e arte,arte,6
+instalação e cinema,arte,2
+exposição,arte,0
+movimento de exposição,arte,8
+exposição movimento,arte,0
+estilo de exposição,arte,0
+exposição estilo,arte,0
+técnica de exposição,arte,7
+exposição técnica,arte,7
+composição de exposição,arte,8
+exposição composição,arte,0
+forma de exposição,arte,0
+exposição forma,arte,0
+cor de exposição,arte,0
+exposição cor,arte,0
+exposição e arte,arte,0
+exposição e música,arte,2
+exposição e cultura,arte,0
+exposição e escultura,arte,6
+galeria,arte,5
+movimento de galeria,arte,0
+galeria movimento,arte,0
+estilo de galeria,arte,6
+galeria estilo,arte,2
+técnica de galeria,arte,7
+galeria técnica,arte,7
+composição de galeria,arte,0
+galeria composição,arte,0
+forma de galeria,arte,2
+galeria forma,arte,5
+cor de galeria,arte,2
+galeria cor,arte,5
+galeria e obra,arte,6
+galeria e cultura,arte,6
+galeria e fotografia,arte,2
+galeria e pintura,arte,6
+museu,arte,2
+movimento de museu,arte,0
+museu movimento,arte,0
+estilo de museu,arte,2
+museu estilo,arte,2
+técnica de museu,arte,7
+museu técnica,arte,7
+composição de museu,arte,0
+museu composição,arte,0
+forma de museu,arte,2
+museu forma,arte,2
+cor de museu,arte,2
+museu cor,arte,2
+museu e teatro,arte,2
+museu e música,arte,2
+museu e escultura,arte,2
+museu e cultura,arte,2
+museu e poesia,arte,2
+árvore,natureza,1
+preservação de árvore,natureza,0
+árvore preservação,natureza,0
+proteção de árvore,natureza,6
+árvore proteção,natureza,0
+habitat de árvore,natureza,5
+árvore habitat,natureza,5
+espécie de árvore,natureza,6
+árvore espécie,natureza,6
+bioma de árvore,natureza,5
+árvore bioma,natureza,5
+ciclo de árvore,natureza,6
+árvore ciclo,natureza,0
+árvore e biodiversidade,natureza,8
+árvore e sol,natureza,6
+árvore e oceano,natureza,6
+árvore e vento,natureza,6
+árvore e ecossistema,natureza,6
+floresta,natureza,5
+preservação de floresta,natureza,0
+floresta preservação,natureza,5
+proteção de floresta,natureza,0
+floresta proteção,natureza,5
+habitat de floresta,natureza,5
+floresta habitat,natureza,5
+espécie de floresta,natureza,6
+floresta espécie,natureza,5
+bioma de floresta,natureza,5
+floresta bioma,natureza,5
+ciclo de floresta,natureza,0
+floresta ciclo,natureza,5
+floresta e sol,natureza,6
+floresta e terra,natureza,6
+floresta e planta,natureza,5
+floresta e estrela,natureza,6
+floresta e oceano,natureza,6
+rio,natureza,5
+preservação de rio,natureza,0
+rio preservação,natureza,0
+proteção de rio,natureza,6
+rio proteção,natureza,0
+habitat de rio,natureza,5
+rio habitat,natureza,5
+espécie de rio,natureza,6
+rio espécie,natureza,6
+bioma de rio,natureza,5
+rio bioma,natureza,5
+ciclo de rio,natureza,0
+rio ciclo,natureza,5
+rio e floresta,natureza,6
+rio e biodiversidade,natureza,8
+rio e vento,natureza,6
+rio e oceano,natureza,6
+rio e montanha,natureza,2
+montanha,natureza,5
+preservação de montanha,natureza,0
+montanha preservação,natureza,0
+proteção de montanha,natureza,0
+montanha proteção,natureza,0
+habitat de montanha,natureza,5
+montanha habitat,natureza,5
+espécie de montanha,natureza,2
+montanha espécie,natureza,2
+bioma de montanha,natureza,5
+montanha bioma,natureza,5
+ciclo de montanha,natureza,0
+montanha ciclo,natureza,0
+montanha e ecossistema,natureza,8
+montanha e floresta,natureza,2
+montanha e sol,natureza,2
+montanha e biodiversidade,natureza,5
+montanha e oceano,natureza,0
+oceano,natureza,5
+preservação de oceano,natureza,0
+oceano preservação,natureza,0
+proteção de oceano,natureza,0
+oceano proteção,natureza,0
+habitat de oceano,natureza,5
+oceano habitat,natureza,5
+espécie de oceano,natureza,6
+oceano espécie,natureza,6
+bioma de oceano,natureza,5
+oceano bioma,natureza,5
+ciclo de oceano,natureza,0
+oceano ciclo,natureza,0
+oceano e planta,natureza,6
+oceano e animal,natureza,6
+oceano e floresta,natureza,6
+oceano e montanha,natureza,0
+animal,natureza,5
+preservação de animal,natureza,0
+animal preservação,natureza,5
+proteção de animal,natureza,0
+animal proteção,natureza,5
+habitat de animal,natureza,5
+animal habitat,natureza,5
+espécie de animal,natureza,6
+animal espécie,natureza,5
+bioma de animal,natureza,5
+animal bioma,natureza,5
+ciclo de animal,natureza,0
+animal ciclo,natureza,5
+animal e montanha,natureza,2
+animal e ecossistema,natureza,5
+animal e vento,natureza,6
+animal e sol,natureza,5
+planta,natureza,5
+preservação de planta,natureza,0
+planta preservação,natureza,5
+proteção de planta,natureza,6
+planta proteção,natureza,5
+habitat de planta,natureza,5
+planta habitat,natureza,5
+espécie de planta,natureza,6
+planta espécie,natureza,5
+bioma de planta,natureza,5
+planta bioma,natureza,5
+ciclo de planta,natureza,0
+planta ciclo,natureza,5
+planta e rio,natureza,6
+planta e biodiversidade,natureza,5
+planta e clima,natureza,6
+planta e chuva,natureza,2
+sol,natureza,5
+preservação de sol,natureza,0
+sol preservação,natureza,0
+proteção de sol,natureza,0
+sol proteção,natureza,0
+habitat de sol,natureza,5
+sol habitat,natureza,5
+espécie de sol,natureza,6
+sol espécie,natureza,6
+bioma de sol,natureza,5
+sol bioma,natureza,5
+ciclo de sol,natureza,0
+sol ciclo,natureza,0
+sol e sustentabilidade,natureza,8
+sol e vento,natureza,6
+sol e planta,natureza,6
+sol e floresta,natureza,6
+lua,natureza,5
+preservação de lua,natureza,0
+lua preservação,natureza,0
+proteção de lua,natureza,0
+lua proteção,natureza,0
+habitat de lua,natureza,5
+lua habitat,natureza,5
+espécie de lua,natureza,6
+lua espécie,natureza,2
+bioma de lua,natureza,5
+lua bioma,natureza,5
+ciclo de lua,natureza,0
+lua ciclo,natureza,0
+lua e floresta,natureza,6
+lua e vento,natureza,6
+lua e sol,natureza,6
+lua e ecossistema,natureza,6
+lua e terra,natureza,6
+estrela,natureza,2
+preservação de estrela,natureza,0
+estrela preservação,natureza,0
+proteção de estrela,natureza,6
+estrela proteção,natureza,6
+habitat de estrela,natureza,5
+estrela habitat,natureza,5
+espécie de estrela,natureza,6
+estrela espécie,natureza,6
+bioma de estrela,natureza,5
+estrela bioma,natureza,5
+ciclo de estrela,natureza,6
+estrela ciclo,natureza,6
+estrela e oceano,natureza,6
+estrela e sol,natureza,6
+estrela e sustentabilidade,natureza,8
+estrela e natureza,natureza,6
+estrela e planta,natureza,6
+vento,natureza,5
+preservação de vento,natureza,0
+vento preservação,natureza,0
+proteção de vento,natureza,0
+vento proteção,natureza,0
+habitat de vento,natureza,5
+vento habitat,natureza,5
+espécie de vento,natureza,6
+vento espécie,natureza,6
+bioma de vento,natureza,5
+vento bioma,natureza,5
+ciclo de vento,natureza,0
+vento ciclo,natureza,0
+vento e biodiversidade,natureza,5
+vento e animal,natureza,6
+vento e lua,natureza,6
+vento e oceano,natureza,6
+chuva,natureza,5
+preservação de chuva,natureza,0
+chuva preservação,natureza,0
+proteção de chuva,natureza,0
+chuva proteção,natureza,0
+habitat de chuva,natureza,5
+chuva habitat,natureza,5
+espécie de chuva,natureza,2
+chuva espécie,natureza,2
+bioma de chuva,natureza,5
+chuva bioma,natureza,5
+ciclo de chuva,natureza,0
+chuva ciclo,natureza,0
+chuva e montanha,natureza,2
+chuva e estrela,natureza,6
+chuva e sustentabilidade,natureza,8
+chuva e árvore,natureza,2
+chuva e terra,natureza,2
+terra,natureza,5
+preservação de terra,natureza,0
+terra preservação,natureza,5
+proteção de terra,natureza,6
+terra proteção,natureza,5
+habitat de terra,natureza,5
+terra habitat,natureza,5
+espécie de terra,natureza,6
+terra espécie,natureza,5
+bioma de terra,natureza,5
+terra bioma,natureza,5
+ciclo de terra,natureza,0
+terra ciclo,natureza,5
+terra e biodiversidade,natureza,5
+terra e chuva,natureza,2
+terra e floresta,natureza,5
+terra e clima,natureza,6
+terra e lua,natureza,6
+natureza,natureza,5
+preservação de natureza,natureza,0
+natureza preservação,natureza,5
+proteção de natureza,natureza,5
+natureza proteção,natureza,5
+habitat de natureza,natureza,5
+natureza habitat,natureza,5
+espécie de natureza,natureza,6
+natureza espécie,natureza,5
+bioma de natureza,natureza,5
+natureza bioma,natureza,5
+ciclo de natureza,natureza,0
+natureza ciclo,natureza,5
+natureza e conservação,natureza,0
+natureza e montanha,natureza,5
+natureza e chuva,natureza,5
+natureza e árvore,natureza,6
+natureza e clima,natureza,6
+ecossistema,natureza,8
+preservação de ecossistema,natureza,8
+ecossistema preservação,natureza,8
+proteção de ecossistema,natureza,8
+ecossistema proteção,natureza,8
+habitat de ecossistema,natureza,5
+ecossistema habitat,natureza,5
+espécie de ecossistema,natureza,8
+ecossistema espécie,natureza,8
+bioma de ecossistema,natureza,5
+ecossistema bioma,natureza,5
+ciclo de ecossistema,natureza,8
+ecossistema ciclo,natureza,8
+ecossistema e rio,natureza,6
+ecossistema e natureza,natureza,8
+ecossistema e terra,natureza,6
+ecossistema e lua,natureza,6
+ecossistema e sol,natureza,6
+biodiversidade,natureza,5
+preservação de biodiversidade,natureza,8
+biodiversidade preservação,natureza,8
+proteção de biodiversidade,natureza,8
+biodiversidade proteção,natureza,8
+habitat de biodiversidade,natureza,5
+biodiversidade habitat,natureza,5
+espécie de biodiversidade,natureza,8
+biodiversidade espécie,natureza,8
+bioma de biodiversidade,natureza,5
+biodiversidade bioma,natureza,5
+ciclo de biodiversidade,natureza,5
+biodiversidade ciclo,natureza,5
+biodiversidade e ecossistema,natureza,8
+biodiversidade e terra,natureza,5
+biodiversidade e sustentabilidade,natureza,8
+biodiversidade e montanha,natureza,8
+biodiversidade e vento,natureza,5
+clima,natureza,5
+preservação de clima,natureza,0
+clima preservação,natureza,0
+proteção de clima,natureza,0
+clima proteção,natureza,0
+habitat de clima,natureza,5
+clima habitat,natureza,5
+espécie de clima,natureza,6
+clima espécie,natureza,2
+bioma de clima,natureza,5
+clima bioma,natureza,5
+ciclo de clima,natureza,0
+clima ciclo,natureza,0
+clima e animal,natureza,6
+clima e planta,natureza,6
+clima e ambiente,natureza,6
+clima e terra,natureza,6
+clima e lua,natureza,6
+ambiente,natureza,1
+preservação de ambiente,natureza,0
+ambiente preservação,natureza,0
+proteção de ambiente,natureza,6
+ambiente proteção,natureza,0
+habitat de ambiente,natureza,5
+ambiente habitat,natureza,5
+espécie de ambiente,natureza,6
+ambiente espécie,natureza,1
+bioma de ambiente,natureza,5
+ambiente bioma,natureza,5
+ciclo de ambiente,natureza,0
+ambiente ciclo,natureza,5
+ambiente e montanha,natureza,2
+ambiente e árvore,natureza,6
+ambiente e oceano,natureza,6
+ambiente e conservação,natureza,6
+ambiente e estrela,natureza,6
+sustentabilidade,natureza,8
+preservação de sustentabilidade,natureza,8
+sustentabilidade preservação,natureza,8
+proteção de sustentabilidade,natureza,8
+sustentabilidade proteção,natureza,8
+habitat de sustentabilidade,natureza,5
+sustentabilidade habitat,natureza,5
+espécie de sustentabilidade,natureza,8
+sustentabilidade espécie,natureza,8
+bioma de sustentabilidade,natureza,5
+sustentabilidade bioma,natureza,5
+ciclo de sustentabilidade,natureza,8
+sustentabilidade ciclo,natureza,8
+sustentabilidade e terra,natureza,8
+sustentabilidade e biodiversidade,natureza,8
+sustentabilidade e montanha,natureza,8
+sustentabilidade e árvore,natureza,8
+sustentabilidade e estrela,natureza,8
+conservação,natureza,0
+preservação de conservação,natureza,0
+conservação preservação,natureza,0
+proteção de conservação,natureza,0
+conservação proteção,natureza,0
+habitat de conservação,natureza,5
+conservação habitat,natureza,5
+espécie de conservação,natureza,0
+conservação espécie,natureza,0
+bioma de conservação,natureza,5
+conservação bioma,natureza,5
+ciclo de conservação,natureza,0
+conservação ciclo,natureza,0
+conservação e biodiversidade,natureza,8
+conservação e vento,natureza,0
+conservação e oceano,natureza,0
+conservação e árvore,natureza,6
+empresa,negocios,1
+análise de empresa,negocios,8
+empresa análise,negocios,8
+desenvolvimento de empresa,negocios,8
+empresa desenvolvimento,negocios,8
+implementação de empresa,negocios,8
+empresa implementação,negocios,3
+otimização de empresa,negocios,8
+empresa otimização,negocios,8
+crescimento de empresa,negocios,8
+empresa crescimento,negocios,8
+empresa e economia,negocios,8
+empresa e vendas,negocios,6
+empresa e marketing,negocios,1
+empresa e startup,negocios,1
+empresa e produto,negocios,6
+mercado,negocios,0
+análise de mercado,negocios,8
+mercado análise,negocios,8
+desenvolvimento de mercado,negocios,8
+mercado desenvolvimento,negocios,8
+implementação de mercado,negocios,3
+mercado implementação,negocios,3
+otimização de mercado,negocios,8
+mercado otimização,negocios,8
+crescimento de mercado,negocios,0
+mercado crescimento,negocios,0
+mercado e inovação,negocios,8
+mercado e marketing,negocios,6
+mercado e gestão,negocios,6
+mercado e empresa,negocios,6
+mercado e consultoria,negocios,6
+economia,negocios,8
+análise de economia,negocios,8
+economia análise,negocios,8
+desenvolvimento de economia,negocios,8
+economia desenvolvimento,negocios,8
+implementação de economia,negocios,8
+economia implementação,negocios,8
+otimização de economia,negocios,8
+economia otimização,negocios,8
+crescimento de economia,negocios,8
+economia crescimento,negocios,8
+economia e negociação,negocios,8
+economia e planejamento,negocios,8
+economia e investimento,negocios,8
+economia e inovação,negocios,8
+economia e startup,negocios,1
+finanças,negocios,5
+análise de finanças,negocios,8
+finanças análise,negocios,8
+desenvolvimento de finanças,negocios,8
+finanças desenvolvimento,negocios,8
+implementação de finanças,negocios,8
+finanças implementação,negocios,3
+otimização de finanças,negocios,8
+finanças otimização,negocios,8
+crescimento de finanças,negocios,8
+finanças crescimento,negocios,8
+finanças e planejamento,negocios,8
+finanças e vendas,negocios,6
+finanças e gestão,negocios,6
+finanças e economia,negocios,8
+finanças e cliente,negocios,1
+investimento,negocios,5
+análise de investimento,negocios,8
+investimento análise,negocios,8
+desenvolvimento de investimento,negocios,8
+investimento desenvolvimento,negocios,8
+implementação de investimento,negocios,3
+investimento implementação,negocios,3
+otimização de investimento,negocios,8
+investimento otimização,negocios,8
+crescimento de investimento,negocios,8
+investimento crescimento,negocios,8
+investimento e empresa,negocios,8
+investimento e inovação,negocios,8
+investimento e finanças,negocios,8
+investimento e gestão,negocios,6
+investimento e planejamento,negocios,8
+marketing,negocios,1
+análise de marketing,negocios,1
+marketing análise,negocios,1
+desenvolvimento de marketing,negocios,8
+marketing desenvolvimento,negocios,8
+implementação de marketing,negocios,3
+marketing implementação,negocios,3
+otimização de marketing,negocios,8
+marketing otimização,negocios,8
+crescimento de marketing,negocios,8
+marketing crescimento,negocios,8
+marketing e produto,negocios,6
+marketing e serviço,negocios,6
+marketing e finanças,negocios,8
+marketing e gestão,negocios,6
+vendas,negocios,5
+análise de vendas,negocios,5
+vendas análise,negocios,5
+desenvolvimento de vendas,negocios,8
+vendas desenvolvimento,negocios,8
+implementação de vendas,negocios,3
+vendas implementação,negocios,3
+otimização de vendas,negocios,8
+vendas otimização,negocios,8
+crescimento de vendas,negocios,0
+vendas crescimento,negocios,0
+vendas e investimento,negocios,6
+vendas e inovação,negocios,8
+vendas e mercado,negocios,6
+vendas e estratégia,negocios,6
+vendas e marketing,negocios,1
+gestão,negocios,0
+análise de gestão,negocios,8
+gestão análise,negocios,3
+desenvolvimento de gestão,negocios,8
+gestão desenvolvimento,negocios,8
+implementação de gestão,negocios,3
+gestão implementação,negocios,3
+otimização de gestão,negocios,8
+gestão otimização,negocios,8
+crescimento de gestão,negocios,0
+gestão crescimento,negocios,0
+gestão e consultoria,negocios,6
+gestão e cliente,negocios,6
+gestão e marketing,negocios,6
+gestão e startup,negocios,1
+gestão e vendas,negocios,6
+estratégia,negocios,6
+análise de estratégia,negocios,8
+estratégia análise,negocios,8
+desenvolvimento de estratégia,negocios,8
+estratégia desenvolvimento,negocios,8
+implementação de estratégia,negocios,3
+estratégia implementação,negocios,3
+otimização de estratégia,negocios,8
+estratégia otimização,negocios,8
+crescimento de estratégia,negocios,8
+estratégia crescimento,negocios,8
+estratégia e cliente,negocios,6
+estratégia e serviço,negocios,6
+estratégia e produto,negocios,6
+estratégia e marketing,negocios,6
+estratégia e planejamento,negocios,8
+negociação,negocios,8
+análise de negociação,negocios,8
+negociação análise,negocios,8
+desenvolvimento de negociação,negocios,8
+negociação desenvolvimento,negocios,8
+implementação de negociação,negocios,8
+negociação implementação,negocios,8
+otimização de negociação,negocios,8
+negociação otimização,negocios,8
+crescimento de negociação,negocios,8
+negociação crescimento,negocios,8
+negociação e consultoria,negocios,8
+negociação e mercado,negocios,8
+negociação e vendas,negocios,8
+negociação e cliente,negocios,8
+negociação e finanças,negocios,8
+cliente,negocios,1
+análise de cliente,negocios,1
+cliente análise,negocios,1
+desenvolvimento de cliente,negocios,8
+cliente desenvolvimento,negocios,8
+implementação de cliente,negocios,3
+cliente implementação,negocios,3
+otimização de cliente,negocios,1
+cliente otimização,negocios,8
+crescimento de cliente,negocios,8
+cliente crescimento,negocios,8
+cliente e empresa,negocios,6
+cliente e inovação,negocios,8
+cliente e produto,negocios,6
+cliente e startup,negocios,1
+cliente e serviço,negocios,1
+produto,negocios,5
+análise de produto,negocios,3
+produto análise,negocios,3
+desenvolvimento de produto,negocios,8
+produto desenvolvimento,negocios,8
+implementação de produto,negocios,3
+produto implementação,negocios,3
+otimização de produto,negocios,8
+produto otimização,negocios,8
+crescimento de produto,negocios,8
+produto crescimento,negocios,8
+produto e vendas,negocios,6
+produto e empreendedorismo,negocios,8
+produto e startup,negocios,1
+produto e planejamento,negocios,8
+serviço,negocios,5
+análise de serviço,negocios,8
+serviço análise,negocios,5
+desenvolvimento de serviço,negocios,8
+serviço desenvolvimento,negocios,8
+implementação de serviço,negocios,3
+serviço implementação,negocios,3
+otimização de serviço,negocios,8
+serviço otimização,negocios,8
+crescimento de serviço,negocios,8
+serviço crescimento,negocios,8
+serviço e planejamento,negocios,8
+serviço e produto,negocios,6
+serviço e mercado,negocios,6
+serviço e economia,negocios,8
+serviço e cliente,negocios,1
+inovação,negocios,8
+análise de inovação,negocios,8
+inovação análise,negocios,8
+desenvolvimento de inovação,negocios,8
+inovação desenvolvimento,negocios,8
+implementação de inovação,negocios,3
+inovação implementação,negocios,3
+otimização de inovação,negocios,8
+inovação otimização,negocios,8
+crescimento de inovação,negocios,8
+inovação crescimento,negocios,8
+inovação e vendas,negocios,8
+inovação e produto,negocios,8
+inovação e serviço,negocios,8
+inovação e economia,negocios,8
+inovação e estratégia,negocios,8
+empreendedorismo,negocios,8
+análise de empreendedorismo,negocios,8
+empreendedorismo análise,negocios,8
+desenvolvimento de empreendedorismo,negocios,8
+empreendedorismo desenvolvimento,negocios,8
+implementação de empreendedorismo,negocios,8
+empreendedorismo implementação,negocios,3
+otimização de empreendedorismo,negocios,8
+empreendedorismo otimização,negocios,8
+crescimento de empreendedorismo,negocios,8
+empreendedorismo crescimento,negocios,8
+empreendedorismo e startup,negocios,1
+empreendedorismo e economia,negocios,8
+empreendedorismo e negociação,negocios,8
+empreendedorismo e planejamento,negocios,8
+empreendedorismo e cliente,negocios,1
+startup,negocios,1
+análise de startup,negocios,1
+startup análise,negocios,1
+desenvolvimento de startup,negocios,1
+startup desenvolvimento,negocios,1
+implementação de startup,negocios,3
+startup implementação,negocios,1
+otimização de startup,negocios,1
+startup otimização,negocios,1
+crescimento de startup,negocios,1
+startup crescimento,negocios,1
+startup e investimento,negocios,1
+startup e negociação,negocios,8
+startup e empreendedorismo,negocios,1
+startup e estratégia,negocios,1
+startup e economia,negocios,1
+consultoria,negocios,5
+análise de consultoria,negocios,8
+consultoria análise,negocios,5
+desenvolvimento de consultoria,negocios,8
+consultoria desenvolvimento,negocios,8
+implementação de consultoria,negocios,3
+consultoria implementação,negocios,3
+otimização de consultoria,negocios,8
+consultoria otimização,negocios,8
+crescimento de consultoria,negocios,8
+consultoria crescimento,negocios,8
+consultoria e finanças,negocios,6
+consultoria e mercado,negocios,6
+consultoria e vendas,negocios,6
+consultoria e estratégia,negocios,6
+consultoria e produto,negocios,6
+planejamento,negocios,0
+análise de planejamento,negocios,8
+planejamento análise,negocios,8
+desenvolvimento de planejamento,negocios,8
+planejamento desenvolvimento,negocios,8
+implementação de planejamento,negocios,8
+planejamento implementação,negocios,3
+otimização de planejamento,negocios,8
+planejamento otimização,negocios,8
+crescimento de planejamento,negocios,8
+planejamento crescimento,negocios,8
+planejamento e negociação,negocios,8
+planejamento e consultoria,negocios,6
+planejamento e economia,negocios,8
+planejamento e empreendedorismo,negocios,8
+medicina,saude,5
+programa de medicina,saude,3
+medicina programa,saude,5
+protocolo de medicina,saude,5
+medicina protocolo,saude,5
+método de medicina,saude,0
+medicina método,saude,0
+sistema de medicina,saude,4
+medicina sistema,saude,4
+processo de medicina,saude,3
+medicina processo,saude,3
+técnica de medicina,saude,7
+medicina técnica,saude,7
+medicina e farmácia,saude,5
+medicina e bem-estar,saude,6
+medicina e doença,saude,5
+medicina e prevenção,saude,8
+medicina e terapia,saude,5
+saúde,saude,5
+programa de saúde,saude,3
+saúde programa,saude,3
+protocolo de saúde,saude,6
+saúde protocolo,saude,0
+método de saúde,saude,0
+saúde método,saude,0
+sistema de saúde,saude,4
+saúde sistema,saude,4
+processo de saúde,saude,3
+saúde processo,saude,3
+técnica de saúde,saude,7
+saúde técnica,saude,7
+saúde e qualidade de vida,saude,8
+saúde e médico,saude,6
+saúde e tratamento,saude,8
+saúde e medicina,saude,6
+saúde e enfermagem,saude,6
+doença,saude,5
+programa de doença,saude,3
+doença programa,saude,3
+protocolo de doença,saude,0
+doença protocolo,saude,5
+método de doença,saude,0
+doença método,saude,0
+sistema de doença,saude,4
+doença sistema,saude,4
+processo de doença,saude,3
+doença processo,saude,3
+técnica de doença,saude,7
+doença técnica,saude,7
+doença e prevenção,saude,8
+doença e cura,saude,6
+doença e hospital,saude,5
+doença e medicina,saude,5
+tratamento,saude,0
+programa de tratamento,saude,3
+tratamento programa,saude,3
+protocolo de tratamento,saude,8
+tratamento protocolo,saude,8
+método de tratamento,saude,0
+tratamento método,saude,0
+sistema de tratamento,saude,4
+tratamento sistema,saude,4
+processo de tratamento,saude,3
+tratamento processo,saude,3
+técnica de tratamento,saude,7
+tratamento técnica,saude,7
+tratamento e bem-estar,saude,8
+tratamento e nutrição,saude,8
+tratamento e psicologia,saude,8
+tratamento e farmácia,saude,8
+tratamento e doença,saude,8
+diagnóstico,saude,3
+programa de diagnóstico,saude,3
+diagnóstico programa,saude,3
+protocolo de diagnóstico,saude,3
+diagnóstico protocolo,saude,3
+método de diagnóstico,saude,0
+diagnóstico método,saude,0
+sistema de diagnóstico,saude,4
+diagnóstico sistema,saude,4
+processo de diagnóstico,saude,3
+diagnóstico processo,saude,3
+técnica de diagnóstico,saude,7
+diagnóstico técnica,saude,7
+diagnóstico e doença,saude,6
+diagnóstico e saúde,saude,6
+diagnóstico e farmácia,saude,5
+diagnóstico e exercício,saude,6
+terapia,saude,5
+programa de terapia,saude,3
+terapia programa,saude,3
+protocolo de terapia,saude,0
+terapia protocolo,saude,5
+método de terapia,saude,0
+terapia método,saude,0
+sistema de terapia,saude,4
+terapia sistema,saude,4
+processo de terapia,saude,3
+terapia processo,saude,3
+técnica de terapia,saude,7
+terapia técnica,saude,7
+terapia e cura,saude,6
+terapia e psicologia,saude,5
+terapia e medicina,saude,5
+terapia e exercício,saude,6
+terapia e tratamento,saude,8
+prevenção,saude,8
+programa de prevenção,saude,3
+prevenção programa,saude,3
+protocolo de prevenção,saude,8
+prevenção protocolo,saude,8
+método de prevenção,saude,8
+prevenção método,saude,0
+sistema de prevenção,saude,4
+prevenção sistema,saude,4
+processo de prevenção,saude,3
+prevenção processo,saude,3
+técnica de prevenção,saude,7
+prevenção técnica,saude,7
+prevenção e farmácia,saude,8
+prevenção e cura,saude,8
+prevenção e hospital,saude,8
+prevenção e doença,saude,8
+prevenção e bem-estar,saude,8
+cura,saude,5
+programa de cura,saude,3
+cura programa,saude,3
+protocolo de cura,saude,6
+cura protocolo,saude,5
+método de cura,saude,0
+cura método,saude,0
+sistema de cura,saude,4
+cura sistema,saude,4
+processo de cura,saude,3
+cura processo,saude,3
+técnica de cura,saude,7
+cura técnica,saude,7
+cura e exercício,saude,6
+cura e psicologia,saude,6
+cura e farmácia,saude,6
+cura e hospital,saude,5
+cura e saúde,saude,6
+hospital,saude,5
+programa de hospital,saude,3
+hospital programa,saude,3
+protocolo de hospital,saude,0
+hospital protocolo,saude,5
+método de hospital,saude,0
+hospital método,saude,0
+sistema de hospital,saude,4
+hospital sistema,saude,4
+processo de hospital,saude,3
+hospital processo,saude,3
+técnica de hospital,saude,7
+hospital técnica,saude,7
+hospital e farmácia,saude,5
+hospital e tratamento,saude,8
+hospital e bem-estar,saude,6
+hospital e terapia,saude,5
+médico,saude,5
+programa de médico,saude,3
+médico programa,saude,5
+protocolo de médico,saude,5
+médico protocolo,saude,5
+método de médico,saude,0
+médico método,saude,0
+sistema de médico,saude,4
+médico sistema,saude,4
+processo de médico,saude,3
+médico processo,saude,3
+técnica de médico,saude,7
+médico técnica,saude,7
+médico e farmácia,saude,5
+médico e qualidade de vida,saude,8
+médico e bem-estar,saude,6
+médico e terapia,saude,5
+médico e doença,saude,5
+enfermagem,saude,5
+programa de enfermagem,saude,3
+enfermagem programa,saude,3
+protocolo de enfermagem,saude,6
+enfermagem protocolo,saude,3
+método de enfermagem,saude,0
+enfermagem método,saude,0
+sistema de enfermagem,saude,4
+enfermagem sistema,saude,4
+processo de enfermagem,saude,3
+enfermagem processo,saude,3
+técnica de enfermagem,saude,7
+enfermagem técnica,saude,7
+enfermagem e médico,saude,6
+enfermagem e cura,saude,6
+enfermagem e nutrição,saude,6
+enfermagem e hospital,saude,5
+enfermagem e qualidade de vida,saude,8
+farmácia,saude,5
+programa de farmácia,saude,3
+farmácia programa,saude,3
+protocolo de farmácia,saude,6
+farmácia protocolo,saude,5
+método de farmácia,saude,0
+farmácia método,saude,5
+sistema de farmácia,saude,4
+farmácia sistema,saude,4
+processo de farmácia,saude,3
+farmácia processo,saude,3
+técnica de farmácia,saude,7
+farmácia técnica,saude,7
+farmácia e doença,saude,5
+farmácia e bem-estar,saude,6
+farmácia e nutrição,saude,6
+farmácia e enfermagem,saude,6
+farmácia e prevenção,saude,8
+psicologia,saude,5
+programa de psicologia,saude,3
+psicologia programa,saude,3
+protocolo de psicologia,saude,5
+psicologia protocolo,saude,5
+método de psicologia,saude,0
+psicologia método,saude,5
+sistema de psicologia,saude,4
+psicologia sistema,saude,4
+processo de psicologia,saude,3
+psicologia processo,saude,3
+técnica de psicologia,saude,7
+psicologia técnica,saude,7
+psicologia e bem-estar,saude,6
+psicologia e médico,saude,5
+psicologia e terapia,saude,5
+psicologia e farmácia,saude,5
+psicologia e exercício,saude,6
+nutrição,saude,5
+programa de nutrição,saude,3
+nutrição programa,saude,3
+protocolo de nutrição,saude,6
+nutrição protocolo,saude,5
+método de nutrição,saude,0
+nutrição método,saude,0
+sistema de nutrição,saude,4
+nutrição sistema,saude,4
+processo de nutrição,saude,3
+nutrição processo,saude,3
+técnica de nutrição,saude,7
+nutrição técnica,saude,7
+nutrição e exercício,saude,6
+nutrição e terapia,saude,6
+nutrição e doença,saude,6
+nutrição e qualidade de vida,saude,8
+nutrição e psicologia,saude,6
+exercício,saude,6
+programa de exercício,saude,3
+exercício programa,saude,3
+protocolo de exercício,saude,6
+exercício protocolo,saude,6
+método de exercício,saude,0
+exercício método,saude,0
+sistema de exercício,saude,4
+exercício sistema,saude,4
+processo de exercício,saude,3
+exercício processo,saude,3
+técnica de exercício,saude,7
+exercício técnica,saude,7
+exercício e bem-estar,saude,6
+exercício e doença,saude,6
+exercício e cura,saude,6
+exercício e terapia,saude,6
+bem-estar,saude,6
+programa de bem-estar,saude,3
+bem-estar programa,saude,3
+protocolo de bem-estar,saude,6
+bem-estar protocolo,saude,6
+método de bem-estar,saude,0
+bem-estar método,saude,0
+sistema de bem-estar,saude,4
+bem-estar sistema,saude,4
+processo de bem-estar,saude,3
+bem-estar processo,saude,3
+técnica de bem-estar,saude,7
+bem-estar técnica,saude,7
+bem-estar e qualidade de vida,saude,8
+bem-estar e doença,saude,6
+bem-estar e exercício,saude,6
+bem-estar e nutrição,saude,6
+bem-estar e psicologia,saude,6
+qualidade de vida,saude,8
+programa de qualidade de vida,saude,8
+qualidade de vida programa,saude,8
+protocolo de qualidade de vida,saude,8
+qualidade de vida protocolo,saude,8
+método de qualidade de vida,saude,0
+qualidade de vida método,saude,0
+sistema de qualidade de vida,saude,4
+qualidade de vida sistema,saude,4
+processo de qualidade de vida,saude,8
+qualidade de vida processo,saude,8
+técnica de qualidade de vida,saude,8
+qualidade de vida técnica,saude,7
+qualidade de vida e hospital,saude,8
+qualidade de vida e nutrição,saude,8
+qualidade de vida e bem-estar,saude,8
+qualidade de vida e medicina,saude,8
+escola,educacao,2
+método de escola,educacao,0
+escola método,educacao,0
+sistema de escola,educacao,4
+escola sistema,educacao,4
+programa de escola,educacao,3
+escola programa,educacao,3
+projeto de escola,educacao,6
+escola projeto,educacao,6
+processo de escola,educacao,3
+escola processo,educacao,3
+abordagem de escola,educacao,6
+escola abordagem,educacao,6
+escola e ensino,educacao,6
+escola e pedagogia,educacao,6
+escola e desenvolvimento,educacao,6
+escola e aula,educacao,6
+escola e formação,educacao,6
+universidade,educacao,6
+método de universidade,educacao,0
+universidade método,educacao,0
+sistema de universidade,educacao,4
+universidade sistema,educacao,4
+programa de universidade,educacao,3
+universidade programa,educacao,3
+projeto de universidade,educacao,6
+universidade projeto,educacao,6
+processo de universidade,educacao,3
+universidade processo,educacao,3
+abordagem de universidade,educacao,6
+universidade abordagem,educacao,6
+universidade e aprendizagem,educacao,6
+universidade e ensino,educacao,6
+universidade e conhecimento,educacao,6
+universidade e pedagogia,educacao,6
+universidade e desenvolvimento,educacao,8
+ensino,educacao,6
+método de ensino,educacao,0
+ensino método,educacao,0
+sistema de ensino,educacao,4
+ensino sistema,educacao,4
+programa de ensino,educacao,3
+ensino programa,educacao,3
+projeto de ensino,educacao,6
+ensino projeto,educacao,6
+processo de ensino,educacao,3
+ensino processo,educacao,3
+abordagem de ensino,educacao,6
+ensino abordagem,educacao,6
+ensino e aluno,educacao,6
+ensino e desenvolvimento,educacao,8
+ensino e aula,educacao,6
+ensino e escola,educacao,6
+ensino e curso,educacao,6
+aprendizagem,educacao,8
+método de aprendizagem,educacao,0
+aprendizagem método,educacao,0
+sistema de aprendizagem,educacao,4
+aprendizagem sistema,educacao,4
+programa de aprendizagem,educacao,3
+aprendizagem programa,educacao,3
+projeto de aprendizagem,educacao,8
+aprendizagem projeto,educacao,8
+processo de aprendizagem,educacao,3
+aprendizagem processo,educacao,3
+abordagem de aprendizagem,educacao,8
+aprendizagem abordagem,educacao,8
+aprendizagem e curso,educacao,3
+aprendizagem e capacitação,educacao,8
+aprendizagem e ensino,educacao,6
+aprendizagem e educação,educacao,8
+aprendizagem e pedagogia,educacao,8
+professor,educacao,5
+método de professor,educacao,0
+professor método,educacao,0
+sistema de professor,educacao,4
+professor sistema,educacao,4
+programa de professor,educacao,3
+professor programa,educacao,3
+projeto de professor,educacao,6
+professor projeto,educacao,0
+processo de professor,educacao,3
+professor processo,educacao,3
+abordagem de professor,educacao,3
+professor abordagem,educacao,5
+professor e escola,educacao,6
+professor e treinamento,educacao,8
+professor e ensino,educacao,6
+professor e aluno,educacao,6
+professor e capacitação,educacao,8
+aluno,educacao,5
+método de aluno,educacao,0
+aluno método,educacao,0
+sistema de aluno,educacao,4
+aluno sistema,educacao,4
+programa de aluno,educacao,3
+aluno programa,educacao,3
+projeto de aluno,educacao,0
+aluno projeto,educacao,0
+processo de aluno,educacao,3
+aluno processo,educacao,3
+abordagem de aluno,educacao,0
+aluno abordagem,educacao,0
+aluno e treinamento,educacao,0
+aluno e desenvolvimento,educacao,6
+aluno e conhecimento,educacao,0
+aluno e aula,educacao,6
+aluno e educação,educacao,6
+curso,educacao,1
+método de curso,educacao,0
+curso método,educacao,0
+sistema de curso,educacao,4
+curso sistema,educacao,4
+programa de curso,educacao,3
+curso programa,educacao,3
+projeto de curso,educacao,6
+curso projeto,educacao,6
+processo de curso,educacao,3
+curso processo,educacao,3
+abordagem de curso,educacao,3
+curso abordagem,educacao,1
+curso e aprendizagem,educacao,3
+curso e conhecimento,educacao,6
+curso e professor,educacao,1
+curso e universidade,educacao,6
+aula,educacao,5
+método de aula,educacao,0
+aula método,educacao,0
+sistema de aula,educacao,4
+aula sistema,educacao,4
+programa de aula,educacao,3
+aula programa,educacao,3
+projeto de aula,educacao,6
+aula projeto,educacao,6
+processo de aula,educacao,3
+aula processo,educacao,3
+abordagem de aula,educacao,6
+aula abordagem,educacao,5
+aula e curso,educacao,6
+aula e escola,educacao,6
+aula e treinamento,educacao,6
+aula e universidade,educacao,6
+pedagogia,educacao,5
+método de pedagogia,educacao,0
+pedagogia método,educacao,0
+sistema de pedagogia,educacao,4
+pedagogia sistema,educacao,4
+programa de pedagogia,educacao,3
+pedagogia programa,educacao,3
+projeto de pedagogia,educacao,8
+pedagogia projeto,educacao,6
+processo de pedagogia,educacao,3
+pedagogia processo,educacao,3
+abordagem de pedagogia,educacao,8
+pedagogia abordagem,educacao,8
+pedagogia e curso,educacao,6
+pedagogia e educação,educacao,8
+pedagogia e ensino,educacao,6
+pedagogia e treinamento,educacao,8
+pedagogia e aluno,educacao,6
+didática,educacao,5
+método de didática,educacao,0
+didática método,educacao,0
+sistema de didática,educacao,4
+didática sistema,educacao,4
+programa de didática,educacao,3
+didática programa,educacao,3
+projeto de didática,educacao,0
+didática projeto,educacao,0
+processo de didática,educacao,3
+didática processo,educacao,3
+abordagem de didática,educacao,0
+didática abordagem,educacao,0
+didática e treinamento,educacao,8
+didática e aprendizagem,educacao,8
+didática e desenvolvimento,educacao,8
+didática e educação,educacao,8
+conhecimento,educacao,0
+método de conhecimento,educacao,0
+conhecimento método,educacao,0
+sistema de conhecimento,educacao,8
+conhecimento sistema,educacao,4
+programa de conhecimento,educacao,8
+conhecimento programa,educacao,8
+projeto de conhecimento,educacao,8
+conhecimento projeto,educacao,8
+processo de conhecimento,educacao,3
+conhecimento processo,educacao,3
+abordagem de conhecimento,educacao,8
+conhecimento abordagem,educacao,8
+conhecimento e curso,educacao,6
+conhecimento e didática,educacao,0
+conhecimento e escola,educacao,6
+conhecimento e aluno,educacao,0
+conhecimento e formação,educacao,8
+educação,educacao,8
+método de educação,educacao,8
+educação método,educacao,8
+sistema de educação,educacao,4
+educação sistema,educacao,4
+programa de educação,educacao,3
+educação programa,educacao,3
+projeto de educação,educacao,8
+educação projeto,educacao,8
+processo de educação,educacao,3
+educação processo,educacao,3
+abordagem de educação,educacao,8
+educação abordagem,educacao,8
+educação e conhecimento,educacao,8
+educação e universidade,educacao,6
+educação e aprendizagem,educacao,8
+educação e desenvolvimento,educacao,8
+educação e curso,educacao,8
+formação,educacao,0
+método de formação,educacao,0
+formação método,educacao,0
+sistema de formação,educacao,4
+formação sistema,educacao,4
+programa de formação,educacao,3
+formação programa,educacao,3
+projeto de formação,educacao,0
+formação projeto,educacao,0
+processo de formação,educacao,3
+formação processo,educacao,3
+abordagem de formação,educacao,0
+formação abordagem,educacao,0
+formação e ensino,educacao,6
+formação e aula,educacao,6
+formação e conhecimento,educacao,8
+formação e aprendizagem,educacao,8
+formação e escola,educacao,6
+capacitação,educacao,8
+método de capacitação,educacao,8
+capacitação método,educacao,0
+sistema de capacitação,educacao,4
+capacitação sistema,educacao,4
+programa de capacitação,educacao,3
+capacitação programa,educacao,3
+projeto de capacitação,educacao,8
+capacitação projeto,educacao,8
+processo de capacitação,educacao,3
+capacitação processo,educacao,3
+abordagem de capacitação,educacao,8
+capacitação abordagem,educacao,8
+capacitação e professor,educacao,8
+capacitação e educação,educacao,8
+capacitação e conhecimento,educacao,8
+capacitação e curso,educacao,8
+capacitação e aula,educacao,8
+treinamento,educacao,0
+método de treinamento,educacao,0
+treinamento método,educacao,0
+sistema de treinamento,educacao,4
+treinamento sistema,educacao,4
+programa de treinamento,educacao,3
+treinamento programa,educacao,3
+projeto de treinamento,educacao,8
+treinamento projeto,educacao,8
+processo de treinamento,educacao,3
+treinamento processo,educacao,3
+abordagem de treinamento,educacao,8
+treinamento abordagem,educacao,8
+treinamento e professor,educacao,6
+treinamento e aluno,educacao,0
+treinamento e didática,educacao,8
+treinamento e aprendizagem,educacao,8
+treinamento e escola,educacao,6
+desenvolvimento,educacao,8
+método de desenvolvimento,educacao,8
+desenvolvimento método,educacao,0
+sistema de desenvolvimento,educacao,8
+desenvolvimento sistema,educacao,4
+programa de desenvolvimento,educacao,3
+desenvolvimento programa,educacao,3
+projeto de desenvolvimento,educacao,8
+desenvolvimento projeto,educacao,8
+processo de desenvolvimento,educacao,8
+desenvolvimento processo,educacao,3
+abordagem de desenvolvimento,educacao,8
+desenvolvimento abordagem,educacao,8
+desenvolvimento e curso,educacao,6
+desenvolvimento e formação,educacao,8
+desenvolvimento e treinamento,educacao,8
+desenvolvimento e pedagogia,educacao,8
+desenvolvimento e conhecimento,educacao,8
+futebol,esporte,5
+técnica de futebol,esporte,7
+futebol técnica,esporte,7
+tática de futebol,esporte,6
+futebol tática,esporte,7
+estratégia de futebol,esporte,6
+futebol estratégia,esporte,6
+método de futebol,esporte,0
+futebol método,esporte,0
+sistema de futebol,esporte,4
+futebol sistema,esporte,4
+programa de futebol,esporte,3
+futebol programa,esporte,3
+futebol e equipe,esporte,6
+futebol e corrida,esporte,6
+futebol e basquete,esporte,2
+futebol e condicionamento,esporte,6
+futebol e treino,esporte,6
+basquete,esporte,2
+técnica de basquete,esporte,7
+basquete técnica,esporte,7
+tática de basquete,esporte,2
+basquete tática,esporte,2
+estratégia de basquete,esporte,2
+basquete estratégia,esporte,2
+método de basquete,esporte,0
+basquete método,esporte,0
+sistema de basquete,esporte,4
+basquete sistema,esporte,4
+programa de basquete,esporte,3
+basquete programa,esporte,3
+basquete e treino,esporte,2
+basquete e futebol,esporte,2
+basquete e competição,esporte,6
+basquete e atletismo,esporte,6
+basquete e condicionamento,esporte,6
+vôlei,esporte,2
+técnica de vôlei,esporte,7
+vôlei técnica,esporte,7
+tática de vôlei,esporte,2
+vôlei tática,esporte,2
+estratégia de vôlei,esporte,6
+vôlei estratégia,esporte,6
+método de vôlei,esporte,0
+vôlei método,esporte,0
+sistema de vôlei,esporte,4
+vôlei sistema,esporte,4
+programa de vôlei,esporte,3
+vôlei programa,esporte,3
+vôlei e competição,esporte,6
+vôlei e atletismo,esporte,6
+vôlei e basquete,esporte,2
+vôlei e atleta,esporte,6
+vôlei e treino,esporte,6
+natação,esporte,5
+técnica de natação,esporte,7
+natação técnica,esporte,7
+tática de natação,esporte,0
+natação tática,esporte,5
+estratégia de natação,esporte,6
+natação estratégia,esporte,6
+método de natação,esporte,0
+natação método,esporte,0
+sistema de natação,esporte,4
+natação sistema,esporte,4
+programa de natação,esporte,3
+natação programa,esporte,3
+natação e futebol,esporte,6
+natação e técnico,esporte,7
+natação e vôlei,esporte,6
+natação e equipe,esporte,6
+natação e condicionamento,esporte,6
+atletismo,esporte,0
+técnica de atletismo,esporte,7
+atletismo técnica,esporte,7
+tática de atletismo,esporte,0
+atletismo tática,esporte,0
+estratégia de atletismo,esporte,6
+atletismo estratégia,esporte,6
+método de atletismo,esporte,0
+atletismo método,esporte,0
+sistema de atletismo,esporte,4
+atletismo sistema,esporte,4
+programa de atletismo,esporte,3
+atletismo programa,esporte,3
+atletismo e natação,esporte,6
+atletismo e campeonato,esporte,6
+atletismo e futebol,esporte,6
+atletismo e basquete,esporte,6
+atletismo e corrida,esporte,6
+corrida,esporte,5
+técnica de corrida,esporte,7
+corrida técnica,esporte,7
+tática de corrida,esporte,2
+corrida tática,esporte,5
+estratégia de corrida,esporte,6
+corrida estratégia,esporte,6
+método de corrida,esporte,0
+corrida método,esporte,0
+sistema de corrida,esporte,4
+corrida sistema,esporte,4
+programa de corrida,esporte,3
+corrida programa,esporte,3
+corrida e atletismo,esporte,6
+corrida e basquete,esporte,2
+corrida e condicionamento,esporte,8
+corrida e treino,esporte,6
+corrida e futebol,esporte,6
+ginástica,esporte,5
+técnica de ginástica,esporte,7
+ginástica técnica,esporte,7
+tática de ginástica,esporte,0
+ginástica tática,esporte,5
+estratégia de ginástica,esporte,8
+ginástica estratégia,esporte,5
+método de ginástica,esporte,0
+ginástica método,esporte,0
+sistema de ginástica,esporte,4
+ginástica sistema,esporte,4
+programa de ginástica,esporte,3
+ginástica programa,esporte,3
+ginástica e performance,esporte,5
+ginástica e equipe,esporte,6
+ginástica e futebol,esporte,6
+ginástica e atletismo,esporte,6
+ginástica e condicionamento,esporte,8
+treino,esporte,5
+técnica de treino,esporte,7
+treino técnica,esporte,7
+tática de treino,esporte,0
+treino tática,esporte,5
+estratégia de treino,esporte,6
+treino estratégia,esporte,6
+método de treino,esporte,0
+treino método,esporte,0
+sistema de treino,esporte,4
+treino sistema,esporte,4
+programa de treino,esporte,3
+treino programa,esporte,3
+treino e vôlei,esporte,6
+treino e ginástica,esporte,6
+treino e basquete,esporte,2
+treino e natação,esporte,6
+treino e equipe,esporte,6
+competição,esporte,6
+técnica de competição,esporte,7
+competição técnica,esporte,7
+tática de competição,esporte,6
+competição tática,esporte,6
+estratégia de competição,esporte,6
+competição estratégia,esporte,6
+método de competição,esporte,0
+competição método,esporte,0
+sistema de competição,esporte,4
+competição sistema,esporte,4
+programa de competição,esporte,3
+competição programa,esporte,3
+competição e equipe,esporte,6
+competição e vôlei,esporte,6
+competição e natação,esporte,6
+competição e atleta,esporte,6
+jogo,esporte,5
+técnica de jogo,esporte,7
+jogo técnica,esporte,7
+tática de jogo,esporte,0
+jogo tática,esporte,5
+estratégia de jogo,esporte,6
+jogo estratégia,esporte,6
+método de jogo,esporte,0
+jogo método,esporte,0
+sistema de jogo,esporte,4
+jogo sistema,esporte,4
+programa de jogo,esporte,3
+jogo programa,esporte,3
+jogo e técnico,esporte,6
+jogo e natação,esporte,6
+jogo e competição,esporte,6
+jogo e equipe,esporte,6
+campeonato,esporte,5
+técnica de campeonato,esporte,7
+campeonato técnica,esporte,7
+tática de campeonato,esporte,6
+campeonato tática,esporte,2
+estratégia de campeonato,esporte,6
+campeonato estratégia,esporte,6
+método de campeonato,esporte,0
+campeonato método,esporte,0
+sistema de campeonato,esporte,4
+campeonato sistema,esporte,4
+programa de campeonato,esporte,3
+campeonato programa,esporte,3
+campeonato e treino,esporte,6
+campeonato e performance,esporte,6
+campeonato e futebol,esporte,6
+campeonato e condicionamento,esporte,6
+campeonato e atleta,esporte,6
+atleta,esporte,5
+técnica de atleta,esporte,7
+atleta técnica,esporte,7
+tática de atleta,esporte,6
+atleta tática,esporte,5
+estratégia de atleta,esporte,6
+atleta estratégia,esporte,6
+método de atleta,esporte,0
+atleta método,esporte,0
+sistema de atleta,esporte,4
+atleta sistema,esporte,4
+programa de atleta,esporte,3
+atleta programa,esporte,3
+atleta e jogo,esporte,6
+atleta e natação,esporte,6
+atleta e futebol,esporte,6
+atleta e corrida,esporte,6
+atleta e ginástica,esporte,6
+equipe,esporte,1
+técnica de equipe,esporte,7
+equipe técnica,esporte,7
+tática de equipe,esporte,2
+equipe tática,esporte,2
+estratégia de equipe,esporte,6
+equipe estratégia,esporte,6
+método de equipe,esporte,0
+equipe método,esporte,0
+sistema de equipe,esporte,4
+equipe sistema,esporte,4
+programa de equipe,esporte,3
+equipe programa,esporte,3
+equipe e técnico,esporte,7
+equipe e jogo,esporte,6
+equipe e natação,esporte,6
+equipe e atleta,esporte,6
+técnico,esporte,7
+técnica de técnico,esporte,7
+técnico técnica,esporte,7
+tática de técnico,esporte,7
+técnico tática,esporte,7
+estratégia de técnico,esporte,7
+técnico estratégia,esporte,7
+método de técnico,esporte,7
+técnico método,esporte,7
+sistema de técnico,esporte,7
+técnico sistema,esporte,7
+programa de técnico,esporte,7
+técnico programa,esporte,7
+técnico e competição,esporte,7
+técnico e treino,esporte,7
+técnico e natação,esporte,7
+técnico e corrida,esporte,7
+técnico e futebol,esporte,7
+performance,esporte,1
+técnica de performance,esporte,7
+performance técnica,esporte,7
+tática de performance,esporte,1
+performance tática,esporte,1
+estratégia de performance,esporte,3
+performance estratégia,esporte,1
+método de performance,esporte,0
+performance método,esporte,0
+sistema de performance,esporte,4
+performance sistema,esporte,4
+programa de performance,esporte,3
+performance programa,esporte,3
+performance e campeonato,esporte,6
+performance e vôlei,esporte,2
+performance e técnico,esporte,7
+performance e ginástica,esporte,2
+performance e jogo,esporte,2
+condicionamento,esporte,0
+técnica de condicionamento,esporte,7
+condicionamento técnica,esporte,7
+tática de condicionamento,esporte,0
+condicionamento tática,esporte,0
+estratégia de condicionamento,esporte,8
+condicionamento estratégia,esporte,8
+método de condicionamento,esporte,0
+condicionamento método,esporte,0
+sistema de condicionamento,esporte,4
+condicionamento sistema,esporte,4
+programa de condicionamento,esporte,3
+condicionamento programa,esporte,3
+condicionamento e natação,esporte,6
+condicionamento e jogo,esporte,0
+condicionamento e basquete,esporte,6
+condicionamento e campeonato,esporte,6
+condicionamento e treino,esporte,6
+história,cultura,5
+manifestação de história,cultura,0
+história manifestação,cultura,0
+expressão de história,cultura,0
+história expressão,cultura,0
+movimento de história,cultura,0
+história movimento,cultura,0
+aspecto de história,cultura,0
+história aspecto,cultura,0
+elemento de história,cultura,0
+história elemento,cultura,0
+dimensão de história,cultura,0
+história dimensão,cultura,0
+história e antropologia,cultura,6
+história e ritual,cultura,2
+história e sociedade,cultura,6
+história e tradição,cultura,8
+tradição,cultura,8
+manifestação de tradição,cultura,8
+tradição manifestação,cultura,8
+expressão de tradição,cultura,8
+tradição expressão,cultura,8
+movimento de tradição,cultura,8
+tradição movimento,cultura,8
+aspecto de tradição,cultura,8
+tradição aspecto,cultura,8
+elemento de tradição,cultura,8
+tradição elemento,cultura,8
+dimensão de tradição,cultura,8
+tradição dimensão,cultura,8
+tradição e filosofia,cultura,8
+tradição e memória,cultura,8
+tradição e identidade,cultura,8
+tradição e sociedade,cultura,8
+costume,cultura,2
+manifestação de costume,cultura,2
+costume manifestação,cultura,0
+expressão de costume,cultura,2
+costume expressão,cultura,2
+movimento de costume,cultura,2
+costume movimento,cultura,2
+aspecto de costume,cultura,2
+costume aspecto,cultura,2
+elemento de costume,cultura,2
+costume elemento,cultura,2
+dimensão de costume,cultura,2
+costume dimensão,cultura,0
+costume e diversidade,cultura,2
+costume e sociedade,cultura,2
+costume e sociologia,cultura,2
+costume e celebração,cultura,2
+costume e história,cultura,2
+sociedade,cultura,5
+manifestação de sociedade,cultura,0
+sociedade manifestação,cultura,0
+expressão de sociedade,cultura,0
+sociedade expressão,cultura,0
+movimento de sociedade,cultura,0
+sociedade movimento,cultura,0
+aspecto de sociedade,cultura,0
+sociedade aspecto,cultura,0
+elemento de sociedade,cultura,6
+sociedade elemento,cultura,0
+dimensão de sociedade,cultura,0
+sociedade dimensão,cultura,0
+sociedade e história,cultura,6
+sociedade e tradição,cultura,8
+sociedade e política,cultura,6
+sociedade e ritual,cultura,2
+sociedade e patrimônio,cultura,6
+religião,cultura,0
+manifestação de religião,cultura,0
+religião manifestação,cultura,0
+expressão de religião,cultura,0
+religião expressão,cultura,0
+movimento de religião,cultura,0
+religião movimento,cultura,0
+aspecto de religião,cultura,0
+religião aspecto,cultura,0
+elemento de religião,cultura,0
+religião elemento,cultura,0
+dimensão de religião,cultura,0
+religião dimensão,cultura,0
+religião e patrimônio,cultura,0
+religião e memória,cultura,0
+religião e sociedade,cultura,6
+religião e identidade,cultura,8
+religião e costume,cultura,2
+filosofia,cultura,5
+manifestação de filosofia,cultura,0
+filosofia manifestação,cultura,0
+expressão de filosofia,cultura,0
+filosofia expressão,cultura,0
+movimento de filosofia,cultura,0
+filosofia movimento,cultura,0
+aspecto de filosofia,cultura,0
+filosofia aspecto,cultura,0
+elemento de filosofia,cultura,0
+filosofia elemento,cultura,0
+dimensão de filosofia,cultura,0
+filosofia dimensão,cultura,0
+filosofia e ritual,cultura,2
+filosofia e patrimônio,cultura,0
+filosofia e religião,cultura,6
+filosofia e costume,cultura,2
+filosofia e memória,cultura,6
+política,cultura,5
+manifestação de política,cultura,0
+política manifestação,cultura,0
+expressão de política,cultura,0
+política expressão,cultura,0
+movimento de política,cultura,0
+política movimento,cultura,0
+aspecto de política,cultura,0
+política aspecto,cultura,0
+elemento de política,cultura,0
+política elemento,cultura,0
+dimensão de política,cultura,0
+política dimensão,cultura,0
+política e sociedade,cultura,6
+política e memória,cultura,8
+política e costume,cultura,2
+política e sociologia,cultura,8
+política e ritual,cultura,2
+antropologia,cultura,5
+manifestação de antropologia,cultura,5
+antropologia manifestação,cultura,5
+expressão de antropologia,cultura,0
+antropologia expressão,cultura,5
+movimento de antropologia,cultura,5
+antropologia movimento,cultura,5
+aspecto de antropologia,cultura,5
+antropologia aspecto,cultura,5
+elemento de antropologia,cultura,5
+antropologia elemento,cultura,5
+dimensão de antropologia,cultura,5
+antropologia dimensão,cultura,5
+antropologia e política,cultura,5
+antropologia e religião,cultura,6
+antropologia e identidade,cultura,8
+antropologia e diversidade,cultura,8
+antropologia e celebração,cultura,8
+sociologia,cultura,5
+manifestação de sociologia,cultura,8
+sociologia manifestação,cultura,0
+expressão de sociologia,cultura,8
+sociologia expressão,cultura,0
+movimento de sociologia,cultura,8
+sociologia movimento,cultura,8
+aspecto de sociologia,cultura,0
+sociologia aspecto,cultura,0
+elemento de sociologia,cultura,0
+sociologia elemento,cultura,0
+dimensão de sociologia,cultura,8
+sociologia dimensão,cultura,0
+sociologia e costume,cultura,2
+sociologia e antropologia,cultura,5
+sociologia e política,cultura,8
+sociologia e religião,cultura,0
+sociologia e história,cultura,8
+identidade,cultura,8
+manifestação de identidade,cultura,8
+identidade manifestação,cultura,8
+expressão de identidade,cultura,8
+identidade expressão,cultura,8
+movimento de identidade,cultura,8
+identidade movimento,cultura,8
+aspecto de identidade,cultura,8
+identidade aspecto,cultura,8
+elemento de identidade,cultura,8
+identidade elemento,cultura,6
+dimensão de identidade,cultura,8
+identidade dimensão,cultura,8
+identidade e filosofia,cultura,8
+identidade e tradição,cultura,8
+identidade e sociedade,cultura,8
+identidade e história,cultura,8
+diversidade,cultura,8
+manifestação de diversidade,cultura,8
+diversidade manifestação,cultura,8
+expressão de diversidade,cultura,8
+diversidade expressão,cultura,8
+movimento de diversidade,cultura,8
+diversidade movimento,cultura,8
+aspecto de diversidade,cultura,8
+diversidade aspecto,cultura,8
+elemento de diversidade,cultura,8
+diversidade elemento,cultura,8
+dimensão de diversidade,cultura,8
+diversidade dimensão,cultura,8
+diversidade e tradição,cultura,8
+diversidade e identidade,cultura,8
+diversidade e antropologia,cultura,8
+diversidade e celebração,cultura,8
+patrimônio,cultura,0
+manifestação de patrimônio,cultura,0
+patrimônio manifestação,cultura,0
+expressão de patrimônio,cultura,0
+patrimônio expressão,cultura,0
+movimento de patrimônio,cultura,0
+patrimônio movimento,cultura,0
+aspecto de patrimônio,cultura,0
+patrimônio aspecto,cultura,0
+elemento de patrimônio,cultura,0
+patrimônio elemento,cultura,0
+dimensão de patrimônio,cultura,0
+patrimônio dimensão,cultura,0
+patrimônio e filosofia,cultura,0
+patrimônio e identidade,cultura,8
+patrimônio e diversidade,cultura,8
+patrimônio e história,cultura,0
+patrimônio e costume,cultura,2
+memória,cultura,5
+manifestação de memória,cultura,0
+memória manifestação,cultura,0
+expressão de memória,cultura,0
+memória expressão,cultura,0
+movimento de memória,cultura,0
+memória movimento,cultura,0
+aspecto de memória,cultura,0
+memória aspecto,cultura,0
+elemento de memória,cultura,0
+memória elemento,cultura,0
+dimensão de memória,cultura,0
+memória dimensão,cultura,0
+memória e tradição,cultura,8
+memória e antropologia,cultura,5
+memória e diversidade,cultura,8
+memória e sociologia,cultura,8
+ritual,cultura,5
+manifestação de ritual,cultura,0
+ritual manifestação,cultura,0
+expressão de ritual,cultura,0
+ritual expressão,cultura,0
+movimento de ritual,cultura,0
+ritual movimento,cultura,0
+aspecto de ritual,cultura,0
+ritual aspecto,cultura,0
+elemento de ritual,cultura,0
+ritual elemento,cultura,0
+dimensão de ritual,cultura,0
+ritual dimensão,cultura,0
+ritual e filosofia,cultura,2
+ritual e tradição,cultura,8
+ritual e celebração,cultura,8
+ritual e diversidade,cultura,8
+ritual e identidade,cultura,8
+celebração,cultura,8
+manifestação de celebração,cultura,8
+celebração manifestação,cultura,8
+expressão de celebração,cultura,8
+celebração expressão,cultura,8
+movimento de celebração,cultura,8
+celebração movimento,cultura,8
+aspecto de celebração,cultura,8
+celebração aspecto,cultura,8
+elemento de celebração,cultura,8
+celebração elemento,cultura,8
+dimensão de celebração,cultura,8
+celebração dimensão,cultura,8
+celebração e sociologia,cultura,8
+celebração e identidade,cultura,8
+celebração e filosofia,cultura,8
+celebração e memória,cultura,8
+celebração e costume,cultura,2
