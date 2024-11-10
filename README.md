@@ -88,9 +88,7 @@ Se você está buscando alguém para transformar dados em **insights prontos par
 
 Dê uma olhada nos meus projetos para ver como estou aplicando esses conhecimentos no mundo real:
 
-1. [Portfolio de Análise de Dados - 2024](https://github.com/chaos4455/Portfolio-Data-Analytics-2024)
-2. [Replika IA Solutions - Pesquisa e Inovação em IA](https://github.com/chaos4455/Replika-IA-Solutions)
-3. [Kubernetes MicroService Architecture Portfolio](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio)
+1. [Kubernetes MicroService Architecture Portfolio](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio)
 
 ---
 
